@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A sunny afternoon with creativity"
+title: "Creativity!"
 date: 2020-05-26
 ---
 
