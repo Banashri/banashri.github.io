@@ -10,9 +10,5 @@ this is the time to act wisely.
 
 The Govt extended the deadline of Driving exam by 6 more months luckily. For that, I need to learn some German words realated to Driving and Cars.
 
-[![Auto Fahren](https://img.youtube.com/vi/ilMQAW92N14/hqdefault.jpg)](https://www.youtube.com/watch?v=ilMQAW92N14)
-
-
-
 [<img src="https://img.youtube.com/vi/ilMQAW92N14/maxresdefault.jpg" width="50%">](https://youtu.be/ilMQAW92N14)
 
