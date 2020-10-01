@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Die Mensa an meiner Uni"
+date: 2020-10-1
+---
+Die Mensa war der zweite Ort in meiner Uni, an dem ich am liebsten meine Zeit verbringen wollte. An meinen ersten Besuch in der Mensa kann ich mich nicht gut erinnern, weil sie zu war. Ein älterer Student meines Studiengangs hat mir mit anderen die Mensa und die Umgebung gezeigt und erklärt, wie man die Mensa-Karte benutzen sollte.
+
+In meiner Uni-Zeit kochte ich selten. Da ich als Studentin Rabatt für das Mittagessen bekam, war ich immer dort, um Mittag zu essen.Das Stadtmitte-Mensa-Gebäude ist einfach wunderschön. Man kann die Schönheit der Umgebung dort nicht ignorieren. Vorn befindet sich die Stadtbibliothek. Dazwischen gibt es freie Plätze, wo man auf den Bänken sitzen kann. In einer Linie gibt es auch vier Kirschbäumen. Ich wunderte mich immer über die Veränderung dieser Bäumen zu jeder Jahreszeit.In die Mensa gehen Dozent*innen, manche Professor*innen und viele Studierende entweder, um Mittag zu essen oder am Abend für Snacks und um Kaffee zu trinken. Nach 18 Uhr ist sie zu. Aber die Cafeteria unter der Stadtbibliothek war abends geöffnet und dort bestellte ich immer eine Pizza Margarita für 3,50 Euro (ermäßigt), nach einer harten Arbeit, um mir etwas zu gönnen.
+
+
+
+![alt text](https://github.com/banashri/banashri.github.io/blob/master/image.jpg?raw=true)
