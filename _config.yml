@@ -1,4 +1,10 @@
 name: Banashri notes
+highlighter: rouge
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+
+
+paginate: 2
+gems: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+
