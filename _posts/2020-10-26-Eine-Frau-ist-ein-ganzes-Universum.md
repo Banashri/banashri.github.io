@@ -2,6 +2,7 @@
 layout: post
 title: "Eine Frau ist ein ganzes Universum"
 date: 2020-10-26
+tags: Schreibtraining
 ---
 
 Ihr Gesicht scheint wie ein Vollmond mitten in einem dunklen Nachthimmel in einer warmen Sommernacht. 

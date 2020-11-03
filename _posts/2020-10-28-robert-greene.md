@@ -2,6 +2,7 @@
 layout: post
 title: "Wie soll man Robert Greene lesen?"
 date: 2020-10-28
+tags: Schreibtraining
 ---
 
 Der Grund, dass ich seine Bücher genieße, liegt darin, dass sie auf sehr einfache Weise geschrieben sind, und trotz des hohen Anspruchs ähnelt seine Perspektive auf die menschliche Natur meiner eigenen. Noch wichtiger ist, dass die Geschichte in diesen Büchern spannend erzählt ist, wo es sonst nur eine rein sachlich-lineare Abfolge von Ereignissen gab. Da diese Geschichten kontextualisiert sind, geht jede auf eine bestimmte Strategie oder Vorgabe, die er vorgeschlagen hat, zurück. Damit wird man während des Lesens immer nachdenklicher. Robert Greene ist ein erfolgreicher Bestseller-Autor, nicht weil er ein Literaturgenie oder ein ausgebildeter Psychologe ist, sondern weil er ein intuitives Gefühl für menschliches Verlangen, nämlich Geld, Sex oder Macht, hat. Außerdem arbeitet er aus diesen historischen Geschichten das Nützliche heraus, so dass man lernen kann, alle drei zuvor genannten Dinge im Leben zu erreichen / bekommen. Er versteht, dass viele Leute ein Buch lesen, wenn ein Autor eine aussagekräftige Antwort auf die ungelösten Fragen der grandiosen Zwickmühle des zeitgemäßen Verstandes präsentiert: “Was habe ich davon?”
