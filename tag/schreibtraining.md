@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Screibtraining"
+title: "Tag: Schreibtraining"
 tag: Schreibtraining
 ---
