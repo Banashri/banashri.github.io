@@ -5,7 +5,7 @@ date: 2020-12-5
 tags: Lernen
 ---
 
-Ich sah einen Mann. Er stand im Garten und hielt einen Spaen in der Hand. Mit dem grub er ein Loch in die Erde. Um ihn herum lagen noch andere Gartengeräte. Die Sonne
+Ich sah einen Mann. Er stand im Garten und hielt einen Spaten in der Hand. Mit dem grub er ein Loch in die Erde. Um ihn herum lagen noch andere Gartengeräte. Die Sonne
 schien unbarmherzig von oben herab. Die Luft roch nach frischen Kräutern. Der Mann begann zu schwitzen. Sein Gesicht lief rot an. Er griff zu einem Taschentuch und wischte 
 sich den Schweiß von der Stirn. Doch der rann ihm immer wieder übers Gesicht. Er trank einen Schluck Wasser, setzte sich auf den Boden und aß einen Apfel. Kräftig biss
 er hinein. Eine Wespe näherte sich ihm. Sie flog langsam auf ihn zu. Der Mann schlug um sich. Das Insekt wurde aggressive und stach ihm in der Nase. Sein Opfer stieß
