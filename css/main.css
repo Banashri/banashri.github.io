@@ -3,17 +3,14 @@ body {
     width: 70%;
 }
 
-
-ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+ul.books {
+  text-decoration: none;
+  list-style-type: square;
 }
 
 ul li {
-    display: inline;
-    margin-right: 20px;
+  background: #cce5ff;
+  margin: 5px;
 }
 
 nav ul, footer ul {
