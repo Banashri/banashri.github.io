@@ -20,7 +20,7 @@ So, I would be reading the following books. And I may write down how I tackled t
 - [Crime and Punishment](https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0099981904/ref=sr_1_5?crid=2VMPIEBV0MTBM&dchild=1&keywords=crime+and+punishment&qid=1611423230&sprefix=crime+and+%2Caps%2C175&sr=8-5)
 - [Great Expectations](https://www.amazon.de/-/en/Charles-Dickens/dp/0141198893/ref=sr_1_1?crid=YJWRY7Z7C8TB&dchild=1&keywords=great+expectations+charles+dickens+penguin&qid=1611423208&sprefix=great+expectations+Charles+dickens+pen%2Caps%2C345&sr=8-1)
 
-In case, I get exhausted by reading so many thick books, I would include these in between.
+In case, I get exhausted by reading thick books, I would include these in between.
 
 - [1984](https://www.amazon.de/-/en/George-Orwell/dp/0141036141/ref=sr_1_4?dchild=1&keywords=1984&qid=1611423410&sr=8-4)
 - [Sense and Sensibility](https://www.amazon.de/gp/product/0141199679/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1).
