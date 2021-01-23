@@ -3,16 +3,6 @@ layout: default
 title: Banashri
 ---
 
-* The Brothers Karamazov [<em>finished</em>]
-* Anna Karenina - <em>ongoing</em>
-* War and Peace
-* The Idiot - <em>started</em>
-* Moby Dick
-* Divine Comedy
-* The Bleak House
-* Crime and Punishment
-* Great Expectations
-
 <div class="blurb">
 	<h1>Books</h1>
 
