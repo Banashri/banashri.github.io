@@ -4,13 +4,8 @@ body {
 }
 
 ul.books {
-  text-decoration: none;
   list-style-type: square;
-}
-
-ul li {
-  background: #cce5ff;
-  margin: 5px;
+  font-weight: bold;
 }
 
 nav ul, footer ul {
