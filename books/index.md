@@ -1,0 +1,12 @@
+---
+layout: default
+title: Banashri
+---
+
+
+Um die ML-Kenntnisse zu vertiefen:
+
+- [Fast AI](https://www.fast.ai/)
+- [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [wit-ai](https://wit.ai/)
+- [Facebook Hackathon](https://devpost.com/facebook?utm_source=social-facebook&utm_medium=fb4d&utm_campaign=organic&utm_content=post-url&utm_offering=business-tools&utm_product=Hackathon2-RegistrationsOpen_05152020&utm_event=2020Hack2OrganicSocialRegOpen&eventSource=OrganicSocialFB4D&fbclid=IwAR08wpIOwB1MCMy49roZa7oDxgMnDV41j8gu-WpeqhZPHSUPNwign51R3JY)
