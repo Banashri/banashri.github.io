@@ -2,13 +2,24 @@
 layout: default
 title: Banashri
 ---
+
+* The Brothers Karamazov [<em>finished</em>]
+* Anna Karenina - <em>ongoing</em>
+* War and Peace
+* The Idiot - <em>started</em>
+* Moby Dick
+* Divine Comedy
+* The Bleak House
+* Crime and Punishment
+* Great Expectations
+
 <div class="blurb">
 	<h1>Books</h1>
 
-	
+
 	<p>I love things - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time I visit my parents' place. ;)
-  </p> 
-  
+  </p>
+
   <p> This year I have plans for reading some classics of the 19th century. </p>
   <p>In my list, I have these.
     * The Brothers Karamazov [<em>finished</em>]
@@ -19,10 +30,10 @@ title: Banashri
     * Divine Comedy
     * The Bleak House
     * Crime and Punishment
-    * Great Expectations 
+    * Great Expectations
 	</p>
-	
- <p>In case, I get exhausted by reading so many thick books, I would include these in between. **1984** and **Sense and Sensibilities**. 
+
+ <p>In case, I get exhausted by reading so many thick books, I would include these in between. **1984** and **Sense and Sensibilities**.
 	 Let's see how it goes. </p>
-    
+
 </div>
