@@ -3,7 +3,7 @@ layout: default
 title: Banashri
 ---
 
-<img src="https://banashri.github.io/images/books.JPG" alt="Books" title="Books" width="150" height="100" />
+<img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" width="150" height="100" />
 
 I love `things` - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time
 I visit my parents' place. ;)
