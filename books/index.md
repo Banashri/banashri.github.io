@@ -5,7 +5,7 @@ title: Banashri
 
 <img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" width="100%" height="25%" />
 
-I love `things` - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time
+I love <em>things</em> - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time
 I visit my parents' place. ;)
 
 This year I have plans for reading some classics of the 19th century.
