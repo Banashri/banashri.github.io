@@ -14,16 +14,6 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-ul {
-  font-weight: bold;
-  font-size: inherit;
-}
-
-ul li {
-  display: inline;
-  font-size: inherit;
-}
-
 a {
     text-decoration: none;
     color: #2063ab;
