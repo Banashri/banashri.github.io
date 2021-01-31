@@ -22,9 +22,9 @@ climax. This time too, I read beforehand what was the crucial point of the entir
 
 ## Learnings
 
-- More focus on the journey is needed over the destination.
-- Reading thick books promotes mastering the control over own mind, emotions and time. Reading reviews, synopsis are hindrances.
-- Track the reading time and improve it slowly daily.
-- Make hand-written notes.
+- [More focus on the journey is needed over the destination.](#)
+- [Reading thick books promotes mastering the control over own mind, emotions and time. Reading reviews, synopsis are hindrances.](#)
+- [Track the reading time and improve it slowly daily.](#)
+- [Make hand-written notes.](#)
 
 **<a href="/books" class="text">Lastly, get back to reading!</a>** ;)
