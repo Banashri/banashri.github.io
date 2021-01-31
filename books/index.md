@@ -12,7 +12,7 @@ This year I have plans for reading some classics of the 19th century.
 
 So, I would be reading the following books. And I may write down how I tackled these massive books and my <a href="experiences.md" class="text">experiences in snippets</a> while on this journey.
 
-<a href="https://banashri.github.io/books/experiences.md" class="text" target="_blank">experiences in snippets</a>
+<a href="/books/experiences.md" class="text" target="_blank">experiences in snippets</a>
 
 
 - [The Brothers Karamazov](https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0553212168/ref=sr_1_1?dchild=1&keywords=the+brothers+karamazov+bantam&qid=1611422835&s=books&sr=1-1) ~ `finished`
