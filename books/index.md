@@ -10,7 +10,7 @@ I visit my parents' place. ;)
 
 This year I have plans for reading some classics of the 19th century.
 
-So, I would be reading the following books. And I may write down how I tackled these massive books and my <a href="https://banashri.github.io/books/experiences.md" style="font:1em;text-decoration: none;color: #2063ab;">experiences in snippets</a> while on this journey.
+So, I would be reading the following books. And I may write down how I tackled these massive books and my experiences in snippets while on this journey.
 
 - [The Brothers Karamazov](https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0553212168/ref=sr_1_1?dchild=1&keywords=the+brothers+karamazov+bantam&qid=1611422835&s=books&sr=1-1) ~ `finished`
 - [Anna Karenina](https://www.amazon.de/-/en/Leo-Tolstoy/dp/0140449175/ref=sr_1_8?crid=1PELFGBOG0OHM&dchild=1&keywords=anna+karenina&qid=1611423018&s=books&sprefix=Anna+kare%2Cstripbooks%2C184&sr=1-8) ~ `ongoing`
@@ -27,4 +27,4 @@ In case, I get exhausted by reading thick books, I would include these in betwee
 - [Sense and Sensibility](https://www.amazon.de/gp/product/0141199679/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [Great Expectations](https://www.amazon.de/-/en/Charles-Dickens/dp/0141198893/ref=sr_1_1?crid=YJWRY7Z7C8TB&dchild=1&keywords=great+expectations+charles+dickens+penguin&qid=1611423208&sprefix=great+expectations+Charles+dickens+pen%2Caps%2C345&sr=8-1)
 
-Let's see how it goes!
+Let's see how it goes! Some learnings are shared <a class="text" href="#">here</a>.

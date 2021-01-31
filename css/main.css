@@ -18,6 +18,12 @@ a {
     color: #2063ab;
     font-size: 1.5em;
 }
+
+a.text {
+  color: #2063ab;;
+  text-decoration: none;
+}
+
 a:hover {
     text-decoration: underline;
 }
