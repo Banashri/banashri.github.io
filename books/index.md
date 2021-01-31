@@ -12,6 +12,9 @@ This year I have plans for reading some classics of the 19th century.
 
 So, I would be reading the following books. And I may write down how I tackled these massive books and my <a href="experiences.md" class="text">experiences in snippets</a> while on this journey.
 
+<a href="https://banashri.github.io/books/experiences.md" class="text" target="_blank">experiences in snippets</a>
+
+
 - [The Brothers Karamazov](https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0553212168/ref=sr_1_1?dchild=1&keywords=the+brothers+karamazov+bantam&qid=1611422835&s=books&sr=1-1) ~ `finished`
 - [Anna Karenina](https://www.amazon.de/-/en/Leo-Tolstoy/dp/0140449175/ref=sr_1_8?crid=1PELFGBOG0OHM&dchild=1&keywords=anna+karenina&qid=1611423018&s=books&sprefix=Anna+kare%2Cstripbooks%2C184&sr=1-8) ~ `ongoing`
 - [War and Peace](https://www.amazon.de/-/en/Leo-Tolstoy/dp/0199232768/ref=sr_1_1?dchild=1&keywords=war+and+peace+Oxford&qid=1611422913&s=books&sr=1-1)
