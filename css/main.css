@@ -15,15 +15,13 @@ nav ul li, footer ul li {
 }
 
 ul {
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  padding: 0px;
-  list-style: none;
   font-weight: bold;
+  font-size: inherit;
 }
 
 ul li {
   display: inline;
-  margin-right: 20px;
+  font-size: inherit;
 }
 
 a {
