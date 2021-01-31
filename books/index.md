@@ -27,4 +27,4 @@ In case, I get exhausted by reading thick books, I would include these in betwee
 - [Sense and Sensibility](https://www.amazon.de/gp/product/0141199679/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [Great Expectations](https://www.amazon.de/-/en/Charles-Dickens/dp/0141198893/ref=sr_1_1?crid=YJWRY7Z7C8TB&dchild=1&keywords=great+expectations+charles+dickens+penguin&qid=1611423208&sprefix=great+expectations+Charles+dickens+pen%2Caps%2C345&sr=8-1)
 
-[Let's see how it goes!](learning.md)
+Let's see how it goes!

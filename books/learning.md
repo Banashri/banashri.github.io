@@ -27,4 +27,4 @@ climax. This time too, I read beforehand what was the crucial point of the entir
 - Track the reading time and improve it slowly daily.
 - Make hand-written notes.
 
-Lastly, **get back to reading!** ;)
+**<a href="/books" class="text">Lastly, get back to reading!</a>** ;)
