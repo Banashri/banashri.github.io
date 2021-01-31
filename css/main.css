@@ -20,8 +20,9 @@ a {
 }
 
 a.text {
-  color: #2063ab;;
+  color: #2063ab;
   text-decoration: none;
+  font-size: inherit;
 }
 
 a:hover {
