@@ -11,17 +11,21 @@ I visit my parents' place. ;)
 This year I have plans for reading some classics of the 19th century. 20th century classics need to wait until next year.
 
 
-*Finished*
+<div>Finished
+  <div>
+    <div>As planned</div>
+    <a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0553212168/ref=sr_1_1?dchild=1&keywords=the+brothers+karamazov+bantam&qid=1611422835&s=books&sr=1-1">
+      <img class=".books-image" src="https://banashri.github.io/images/1.jpg" alt="The Brothers Karamazov" style="width:150px">
+    </a>
+  </div>
 
-**Planned**
-<a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0553212168/ref=sr_1_1?dchild=1&keywords=the+brothers+karamazov+bantam&qid=1611422835&s=books&sr=1-1">
-  <img class=".books-image" src="https://banashri.github.io/images/1.jpg" alt="The Brothers Karamazov" style="width:150px">
-</a>
-
-**Unplanned**
-<a target="_blank" href="https://www.amazon.de/-/en/Cal-Newport/dp/0525542876/ref=sr_1_1?crid=3DRUM8HLV4QIL&dchild=1&keywords=digital+minimalism&qid=1613412215&s=books&sprefix=digital+mini%2Cstripbooks%2C171&sr=1-1">
-  <img class=".books-image" src="https://banashri.github.io/images/3.jpg" alt="Digital Minimalism" style="width:150px">
-</a>
+  <div>
+    <div>Unplanned</div>
+    <a target="_blank" href="https://www.amazon.de/-/en/Cal-Newport/dp/0525542876/ref=sr_1_1?crid=3DRUM8HLV4QIL&dchild=1&keywords=digital+minimalism&qid=1613412215&s=books&sprefix=digital+mini%2Cstripbooks%2C171&sr=1-1">
+      <img class=".books-image" src="https://banashri.github.io/images/3.jpg" alt="Digital Minimalism" style="width:150px">
+    </a>
+  </div>
+</div>
 
 **Ongoing**
 
