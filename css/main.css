@@ -71,3 +71,15 @@ ul.posts li {
   margin-top: -.5rem;
   margin-bottom: .5rem;
 }
+
+.books-image {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+/* Add a hover effect (blue shadow) */
+.books-image:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
