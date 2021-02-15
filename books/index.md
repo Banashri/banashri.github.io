@@ -21,7 +21,9 @@ This year I have plans for reading some classics of the 19th century. 20th centu
 
 **Ongoing**
 
-- [Anna Karenina](https://www.amazon.de/-/en/Leo-Tolstoy/dp/0140449175/ref=sr_1_8?crid=1PELFGBOG0OHM&dchild=1&keywords=anna+karenina&qid=1611423018&s=books&sprefix=Anna+kare%2Cstripbooks%2C184&sr=1-8)
+<a target="_blank" href="https://www.amazon.de/-/en/Leo-Tolstoy/dp/0140449175/ref=sr_1_8?crid=1PELFGBOG0OHM&dchild=1&keywords=anna+karenina&qid=1611423018&s=books&sprefix=Anna+kare%2Cstripbooks%2C184&sr=1-8">
+  <img class=".books-image" src="https://banashri.github.io/images/2.jpg" alt="Anna Karenina" style="width:150px">
+</a>
 
 **Waiting**
 - [War and Peace](https://www.amazon.de/-/en/Leo-Tolstoy/dp/0199232768/ref=sr_1_1?dchild=1&keywords=war+and+peace+Oxford&qid=1611422913&s=books&sr=1-1)
