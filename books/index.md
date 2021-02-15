@@ -6,11 +6,11 @@ title: A Reader notes!
 <table>
   <tr>
     <td style="width:75%">
-      <img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" />
+      <img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" style="width:100%; height=25%"/>
     </td>
     <td style="width:25%">
-      I love <em>things</em> - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time
-      I visit my parents' place. ;)
+      <p>I love <em>things</em> - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time
+      I visit my parents' place. ;)</p>
     </td>
   </tr>
 </table>
