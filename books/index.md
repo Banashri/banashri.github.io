@@ -11,7 +11,7 @@ I visit my parents' place. ;)
 This year I have plans for reading some classics of the 19th century. 20th century classics need to wait until next year.
 
 
-<div>Finished</div>
+<p><b>Finished</b></p>
 <a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0553212168/ref=sr_1_1?dchild=1&keywords=the+brothers+karamazov+bantam&qid=1611422835&s=books&sr=1-1">
   <img class=".books-image" src="https://banashri.github.io/images/1.jpg" alt="The Brothers Karamazov" style="width:150px">
 </a>
