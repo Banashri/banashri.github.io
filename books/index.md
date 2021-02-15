@@ -3,7 +3,7 @@ layout: default
 title: A Reader notes!
 ---
 
-<table>
+<table class="booksTable">
   <tr>
     <td style="width:75%">
       <img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" style="width:100%; height=25%"/>
