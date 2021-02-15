@@ -3,10 +3,17 @@ layout: default
 title: A Reader notes!
 ---
 
-<img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" width="100%" height="25%" />
-
-I love <em>things</em> - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time
-I visit my parents' place. ;)
+<table>
+  <tr>
+    <td style="width:75%">
+      <img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" />
+    </td>
+    <td style="width:25%">
+      I love <em>things</em> - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time
+      I visit my parents' place. ;)
+    </td>
+  </tr>
+</table>
 
 This year I have the plan for reading only some classics of the 19th century. 20th century classics need to wait until next year. ;) Self-improvement books can make their entry, nevertheless, in unplanned manner.
 
