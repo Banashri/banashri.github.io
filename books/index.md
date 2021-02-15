@@ -8,7 +8,7 @@ title: A Reader notes!
 I love <em>things</em> - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time
 I visit my parents' place. ;)
 
-This year I have plans for reading some classics of the 19th century. 20th century classics need to wait until next year.
+This year I have the plan for reading only some classics of the 19th century. 20th century classics need to wait until next year. ;) Self-improvement books can make their entry, nevertheless, in unplanned manner.
 
 
 **Finished**
