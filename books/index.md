@@ -27,7 +27,7 @@ This year I have the plan for reading only some classics of the 19th century. 20
   <img class=".books-image" src="https://banashri.github.io/images/3.jpg" alt="Digital Minimalism" style="width:150px">
 </a>
 <a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0099981904/ref=sr_1_5?crid=2VMPIEBV0MTBM&dchild=1&keywords=crime+and+punishment&qid=1611423230&sprefix=crime+and+%2Caps%2C175&sr=8-5">
-  <img class=".books-image" src="https://banashri.github.io/images/cnadpjpg" alt="Crime and Punishment" style="width:150px">
+  <img class=".books-image" src="https://banashri.github.io/images/candp.jpg" alt="Crime and Punishment" style="width:150px">
 </a>
 
 **Ongoing**
