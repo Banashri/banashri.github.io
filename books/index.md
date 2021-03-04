@@ -26,6 +26,9 @@ This year I have the plan for reading only some classics of the 19th century. 20
 <a target="_blank" href="https://www.amazon.de/-/en/Cal-Newport/dp/0525542876/ref=sr_1_1?crid=3DRUM8HLV4QIL&dchild=1&keywords=digital+minimalism&qid=1613412215&s=books&sprefix=digital+mini%2Cstripbooks%2C171&sr=1-1">
   <img class=".books-image" src="https://banashri.github.io/images/3.jpg" alt="Digital Minimalism" style="width:150px">
 </a>
+<a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0099981904/ref=sr_1_5?crid=2VMPIEBV0MTBM&dchild=1&keywords=crime+and+punishment&qid=1611423230&sprefix=crime+and+%2Caps%2C175&sr=8-5">
+  <img class=".books-image" src="https://banashri.github.io/images/cnadpjpg" alt="Crime and Punishment" style="width:150px">
+</a>
 
 **Ongoing**
 
@@ -39,7 +42,6 @@ This year I have the plan for reading only some classics of the 19th century. 20
 - [Moby Dick](https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1)
 - [The Divine Comedy](https://www.amazon.de/-/en/Peter-Armour/dp/0679433139/ref=sr_1_5?crid=18P199LOIUJ60&dchild=1&keywords=divine+comedy&qid=1611423081&s=books&sprefix=Divine+Co%2Cstripbooks%2C333&sr=1-5)
 - [Bleak House](https://www.amazon.de/gp/product/0199536317/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
-- [Crime and Punishment](https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0099981904/ref=sr_1_5?crid=2VMPIEBV0MTBM&dchild=1&keywords=crime+and+punishment&qid=1611423230&sprefix=crime+and+%2Caps%2C175&sr=8-5)
 - [David Copperfield](https://www.amazon.de/-/en/Jeremy-Tambling/dp/0140439447/ref=sr_1_10?crid=1N5RKF13UQRBW&dchild=1&keywords=david+copperfield&qid=1611423951&sprefix=David+copper%2Caps%2C180&sr=8-10)
 
 To push myself a bit more, ;)
