@@ -38,16 +38,18 @@ This year I have the plan for reading only some classics of the 19th century. 20
   <img class=".books-image" src="https://banashri.github.io/images/anna-k.jpg" alt="Anna Karenina" style="width:150px">
 </a>
 
-<!--**Ongoing**
+**Ongoing**
 
-<a target="_blank" href="https://www.amazon.de/-/en/Stephen-Fry/dp/1405934131/ref=sr_1_1?dchild=1&keywords=mythos&qid=1615484910&sr=8-1">
+<a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
+  <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
+</a>
+<!--<a target="_blank" href="https://www.amazon.de/-/en/Stephen-Fry/dp/1405934131/ref=sr_1_1?dchild=1&keywords=mythos&qid=1615484910&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/mythos.jpg" alt="Mythos" style="width:150px">
 </a>-->
 
 **Waiting**
 - [War and Peace](https://www.amazon.de/-/en/Leo-Tolstoy/dp/0199232768/ref=sr_1_1?dchild=1&keywords=war+and+peace+Oxford&qid=1611422913&s=books&sr=1-1)
 - [The Idiot](https://www.amazon.de/-/en/Fjodor-Michajlovič-Dostojevskij/dp/1847493432/ref=sr_1_7?dchild=1&keywords=the+idiot&qid=1611422930&s=books&sr=1-7)
-- [Moby Dick](https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1)
 - [The Divine Comedy](https://www.amazon.de/-/en/Peter-Armour/dp/0679433139/ref=sr_1_5?crid=18P199LOIUJ60&dchild=1&keywords=divine+comedy&qid=1611423081&s=books&sprefix=Divine+Co%2Cstripbooks%2C333&sr=1-5)
 - [Bleak House](https://www.amazon.de/gp/product/0199536317/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [David Copperfield](https://www.amazon.de/-/en/Jeremy-Tambling/dp/0140439447/ref=sr_1_10?crid=1N5RKF13UQRBW&dchild=1&keywords=david+copperfield&qid=1611423951&sprefix=David+copper%2Caps%2C180&sr=8-10)
