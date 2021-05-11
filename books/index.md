@@ -17,10 +17,10 @@ title: A Reader notes!
   </tr>
 </table>-->
 
-I love <em>things</em> - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time
-I visit my parents' place. ;)
+Ich mag Reisen. Und mithilfe von Büchern verreise ich im Kopf.
+Ich mag die Dinge <em>things</em> - und natürlich es ist nicht ein Wunder, dass ich für Bücher als mein bester Freund halte. Jedes Mal bringe ich einen Koffer mit voller Bücher aus meiner Heimat, wo man billig die Bücher kaufen kann. ;)
 
-This year I have the plan for reading only some classics of the 19th century. 20th century classics need to wait until next year. ;) Self-improvement books can make their entry, nevertheless, in unplanned manner.
+2021 habe ich vor, die 19. Jahrhunderte Bücher, besonders die klassische Bücher von russischen Autoren zu lesen.
 
 
 **Finished**
@@ -37,19 +37,28 @@ This year I have the plan for reading only some classics of the 19th century. 20
 <a target="_blank" href="https://www.amazon.de/-/en/Leo-Tolstoy/dp/0140449175/ref=sr_1_8?crid=1PELFGBOG0OHM&dchild=1&keywords=anna+karenina&qid=1611423018&s=books&sprefix=Anna+kare%2Cstripbooks%2C184&sr=1-8">
   <img class=".books-image" src="https://banashri.github.io/images/anna-k.jpg" alt="Anna Karenina" style="width:150px">
 </a>
+<a target="_blank" href="https://www.amazon.de/-/en/Victor-Hugo/dp/1846140498/ref=sr_1_1?dchild=1&keywords=les+miserables+norman+denny+hardcover&qid=1620717765&sr=8-1">
+  <img class=".books-image" src="https://banashri.github.io/images/hugo.jpg" alt="Les Miserables" style="width:150px">
+</a>
 
 **Ongoing**
 
-<a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
-  <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
+<a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/1857152549/ref=sr_1_3?dchild=1&keywords=The+idiot&qid=1620717995&sr=8-3">
+  <img class=".books-image" src="https://banashri.github.io/images/idiot.jpg" alt="The Idiot" style="width:150px">
 </a>
-<!--<a target="_blank" href="https://www.amazon.de/-/en/Stephen-Fry/dp/1405934131/ref=sr_1_1?dchild=1&keywords=mythos&qid=1615484910&sr=8-1">
-  <img class=".books-image" src="https://banashri.github.io/images/mythos.jpg" alt="Mythos" style="width:150px">
+
+<!--<a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
+  <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
 </a>-->
+
+<a target="_blank" href="https://www.amazon.de/-/en/Stephen-Fry/dp/1405934131/ref=sr_1_1?dchild=1&keywords=mythos&qid=1615484910&sr=8-1">
+  <img class=".books-image" src="https://banashri.github.io/images/mythos.jpg" alt="Mythos" style="width:150px">
+</a>
+
 
 **Waiting**
 - [War and Peace](https://www.amazon.de/-/en/Leo-Tolstoy/dp/0199232768/ref=sr_1_1?dchild=1&keywords=war+and+peace+Oxford&qid=1611422913&s=books&sr=1-1)
-- [The Idiot](https://www.amazon.de/-/en/Fjodor-Michajlovič-Dostojevskij/dp/1847493432/ref=sr_1_7?dchild=1&keywords=the+idiot&qid=1611422930&s=books&sr=1-7)
+- [Moby Dick](https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1620718213&sr=8-1)
 - [The Divine Comedy](https://www.amazon.de/-/en/Peter-Armour/dp/0679433139/ref=sr_1_5?crid=18P199LOIUJ60&dchild=1&keywords=divine+comedy&qid=1611423081&s=books&sprefix=Divine+Co%2Cstripbooks%2C333&sr=1-5)
 - [Bleak House](https://www.amazon.de/gp/product/0199536317/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [David Copperfield](https://www.amazon.de/-/en/Jeremy-Tambling/dp/0140439447/ref=sr_1_10?crid=1N5RKF13UQRBW&dchild=1&keywords=david+copperfield&qid=1611423951&sprefix=David+copper%2Caps%2C180&sr=8-10)
@@ -59,4 +68,4 @@ To push myself a bit more, ;)
 - [Sense and Sensibility](https://www.amazon.de/gp/product/0141199679/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [Great Expectations](https://www.amazon.de/-/en/Charles-Dickens/dp/0141198893/ref=sr_1_1?crid=YJWRY7Z7C8TB&dchild=1&keywords=great+expectations+charles+dickens+penguin&qid=1611423208&sprefix=great+expectations+Charles+dickens+pen%2Caps%2C345&sr=8-1)
 
-Reading is fun!
+Das Bücher lesen macht Spaß!
