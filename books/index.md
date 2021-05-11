@@ -17,11 +17,8 @@ title: A Reader notes!
   </tr>
 </table>-->
 
-Ich mag Reisen. Und mithilfe von Büchern verreise ich im Kopf.
-Ich mag die Dinge <em>things</em> - und natürlich es ist nicht ein Wunder, dass ich für Bücher als mein bester Freund halte. Jedes Mal bringe ich einen Koffer mit voller Bücher aus meiner Heimat, wo man billig die Bücher kaufen kann. ;)
-
-2021 habe ich vor, die 19. Jahrhunderte Bücher, besonders die klassische Bücher von russischen Autoren zu lesen.
-
+I love the <em>things</em> - obviously, no wonder that books are my best friend. Every time I visit my home, I carry a suitcase full of books.
+In 2021, I am focusing only on 19th century classics, especially the Russian literature.
 
 **Finished**
 
@@ -68,4 +65,4 @@ To push myself a bit more, ;)
 - [Sense and Sensibility](https://www.amazon.de/gp/product/0141199679/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [Great Expectations](https://www.amazon.de/-/en/Charles-Dickens/dp/0141198893/ref=sr_1_1?crid=YJWRY7Z7C8TB&dchild=1&keywords=great+expectations+charles+dickens+penguin&qid=1611423208&sprefix=great+expectations+Charles+dickens+pen%2Caps%2C345&sr=8-1)
 
-Das Bücher lesen macht Spaß!
+Reading is fun!
