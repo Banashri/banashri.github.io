@@ -17,8 +17,8 @@ title: A Reader notes!
   </tr>
 </table>-->
 
-I love the <em>things</em> - obviously, no wonder that books are my best friend. Every time I visit my home, I carry a suitcase full of books.
-In 2021, I am focusing only on 19th century classics, especially the Russian literature.
+I love <em>traveling</em> - no wonder that books are my best friend as they allow me to travel through the world, and time. Every time I visit my home, I carry a suitcase full of books.
+In 2021, I am focusing only on 19th century classics, and would travel through Russia, France and England.
 
 **Finished**
 
