@@ -41,7 +41,7 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
   <img class=".books-image" src="https://banashri.github.io/images/mythos.jpg" alt="Mythos" style="width:150px">
 </a>
 <a target="_blank" href="https://www.amazon.de/Asterix-30-Obelix-auf-Kreuzfahrt/dp/377043630X/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&dchild=1&keywords=asterix+und+obelix+kreuzfahrt&qid=1621196289&sr=8-1">
-  <img class=".books-image" src="https://banashri.github.io/images/asterix.jpg" alt="Obelix auf Kreuzfahrt" style="width:150px">
+  <img class=".books-image" src="https://banashri.github.io/images/asterix.png" alt="Obelix auf Kreuzfahrt" style="width:150px">
 </a>
 
 **Ongoing**
