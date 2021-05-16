@@ -37,6 +37,12 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Victor-Hugo/dp/1846140498/ref=sr_1_1?dchild=1&keywords=les+miserables+norman+denny+hardcover&qid=1620717765&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/hugo.jpg" alt="Les Miserables" style="width:150px">
 </a>
+<a target="_blank" href="https://www.amazon.de/-/en/Stephen-Fry/dp/1405934131/ref=sr_1_1?dchild=1&keywords=mythos&qid=1615484910&sr=8-1">
+  <img class=".books-image" src="https://banashri.github.io/images/mythos.jpg" alt="Mythos" style="width:150px">
+</a>
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/asterix.jpg" alt="Les Miserables" style="width:150px">
+</a>
 
 **Ongoing**
 
@@ -47,10 +53,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <!--<a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
   <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
 </a>-->
-
-<a target="_blank" href="https://www.amazon.de/-/en/Stephen-Fry/dp/1405934131/ref=sr_1_1?dchild=1&keywords=mythos&qid=1615484910&sr=8-1">
-  <img class=".books-image" src="https://banashri.github.io/images/mythos.jpg" alt="Mythos" style="width:150px">
-</a>
 
 
 **Waiting**
