@@ -54,7 +54,7 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
   <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
 </a>-->
 
-
+<!--
 **Waiting**
 - [War and Peace](https://www.amazon.de/-/en/Leo-Tolstoy/dp/0199232768/ref=sr_1_1?dchild=1&keywords=war+and+peace+Oxford&qid=1611422913&s=books&sr=1-1)
 - [Moby Dick](https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1620718213&sr=8-1)
@@ -66,5 +66,6 @@ To push myself a bit more, ;)
 - [1984](https://www.amazon.de/-/en/George-Orwell/dp/0141036141/ref=sr_1_4?dchild=1&keywords=1984&qid=1611423410&sr=8-4)
 - [Sense and Sensibility](https://www.amazon.de/gp/product/0141199679/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [Great Expectations](https://www.amazon.de/-/en/Charles-Dickens/dp/0141198893/ref=sr_1_1?crid=YJWRY7Z7C8TB&dchild=1&keywords=great+expectations+charles+dickens+penguin&qid=1611423208&sprefix=great+expectations+Charles+dickens+pen%2Caps%2C345&sr=8-1)
+-->
 
 Reading is fun!
