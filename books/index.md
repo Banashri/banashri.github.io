@@ -43,12 +43,11 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/Asterix-30-Obelix-auf-Kreuzfahrt/dp/377043630X/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&dchild=1&keywords=asterix+und+obelix+kreuzfahrt&qid=1621196289&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/asterix.png" alt="Obelix auf Kreuzfahrt" style="width:150px">
 </a>
-
-**Ongoing**
-
 <a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/1857152549/ref=sr_1_3?dchild=1&keywords=The+idiot&qid=1620717995&sr=8-3">
   <img class=".books-image" src="https://banashri.github.io/images/idiot.jpg" alt="The Idiot" style="width:150px">
 </a>
+
+**Ongoing**
 
 <!--<a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
   <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
