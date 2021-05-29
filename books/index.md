@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Reader notes!
+title: Becoming!
 ---
 
 <img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" style="width:100%; height=25%"/>
