@@ -3,7 +3,7 @@ layout: default
 title: Becoming!
 ---
 
-<img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" style="width:100%; height=25%"/>
+<img src="https://banashri.github.io/images/bookshelf.png" alt="Books" title="Books" style="width:100%; height=25%"/>
 
 <!--<table class="booksTable">
   <tr>
