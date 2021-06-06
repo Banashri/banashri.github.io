@@ -65,7 +65,7 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
   <img class=".books-image" src="https://banashri.github.io/images/war-and-peace.jpg" alt="War and Peace" style="width:150px">
 </a>
 <a target="_blank" href="https://www.amazon.de/-/en/Charles-Dickens/dp/345820010X/ref=sr_1_1?crid=13T1QEPEXCDBL&dchild=1&keywords=der+weihnachtsabend&qid=1622969679&sprefix=der+weihnachtsabend%2Caps%2C176&sr=8-1">
-  <img class=".books-image" src="https://banashri.github.io/christmas-dickens.jpg" alt="Der weihnachtsabend" style="width:150px">
+  <img class=".books-image" src="https://banashri.github.io/images/christmas-dickens.jpg" alt="Der weihnachtsabend" style="width:150px">
 </a>
 
 <!--<a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
