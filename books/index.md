@@ -56,7 +56,7 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 **Ongoing**
 
 <a target="_blank" href="https://www.amazon.de/-/en/Hermann-Hesse/dp/0553208845/ref=sr_1_2?dchild=1&keywords=siddhartha&qid=1622979555&sr=8-2">
-  <img class=".books-image" src="https://banashri.github.io/images/siddharta.jpg" alt="Siddhartha" style="width:150px">
+  <img class=".books-image" src="https://banashri.github.io/images/siddhartha.jpg" alt="Siddhartha" style="width:150px">
 </a>
 
 <a target="_blank" href="https://www.amazon.de/-/en/Patricia-Ingham/dp/0140434240/ref=sr_1_5?dchild=1&keywords=north+and+south&qid=1622448871&sr=8-5">
