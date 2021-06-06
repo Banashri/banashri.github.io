@@ -58,7 +58,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Hermann-Hesse/dp/0553208845/ref=sr_1_2?dchild=1&keywords=siddhartha&qid=1622979555&sr=8-2">
   <img class=".books-image" src="https://banashri.github.io/images/siddhartha.jpg" alt="Siddhartha" style="width:150px">
 </a>
-
 <a target="_blank" href="https://www.amazon.de/-/en/Patricia-Ingham/dp/0140434240/ref=sr_1_5?dchild=1&keywords=north+and+south&qid=1622448871&sr=8-5">
   <img class=".books-image" src="https://banashri.github.io/images/north-and-south.jpg" alt="North and South" style="width:150px">
 </a>
@@ -68,7 +67,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Charles-Dickens/dp/345820010X/ref=sr_1_1?crid=13T1QEPEXCDBL&dchild=1&keywords=der+weihnachtsabend&qid=1622969679&sprefix=der+weihnachtsabend%2Caps%2C176&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/christmas-dickens.jpg" alt="Der Weihnachtsabend" style="width:150px">
 </a>
-
 <a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/067973452X/ref=sr_1_3?crid=3P0DRZ3YXCURI&dchild=1&keywords=notes+from+underground&qid=1622320995&sprefix=notes+from+under%2Caps%2C188&sr=8-3">
   <img class=".books-image" src="https://banashri.github.io/images/notes-from-underground.jpg" alt="Notes from Underground" style="width:150px">
 </a>
