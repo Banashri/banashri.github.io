@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Becoming!
+title: An Odyssey
 ---
 
 <img src="https://banashri.github.io/images/bookshelf.jpg" alt="Books" title="Books" style="width:100%; height=25%"/>
