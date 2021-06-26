@@ -58,14 +58,17 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Leo-Tolstoy/dp/0199232768/ref=sr_1_1?dchild=1&keywords=war+and+peace+Oxford&qid=1611422913&s=books&sr=1-1">
   <img class=".books-image" src="https://banashri.github.io/images/war-and-peace.jpg" alt="War and Peace" style="width:150px">
 </a>
+<a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoyevsky/dp/0241252083/ref=sr_1_fkmr2_2?dchild=1&keywords=white+nights+dostoevsky+penguin&qid=1624192899&sr=8-2-fkmr2">
+  <img class=".books-image" src="https://banashri.github.io/images/white-nights.jpg" alt="White Nights" style="width:150px">
+</a>
+<a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/067973452X/ref=sr_1_2?dchild=1&keywords=notes+from+underground&qid=1624724739&sr=8-2">
+  <img class=".books-image" src="https://banashri.github.io/images/notes-from-underground.jpg" alt="Notes from Underground" style="width:150px">
+</a>
 
 **Ongoing**
 
 <a target="_blank" href="https://www.amazon.de/-/en/Mikhail-Bulgakov/dp/0143108271/ref=sr_1_3?crid=10EO43SSQCGM2&dchild=1&keywords=the+master+and+margarita&qid=1624192806&sprefix=the+master+and+margarita%2Caps%2C192&sr=8-3">
   <img class=".books-image" src="https://banashri.github.io/images/master-margarita.jpg" alt="The Master and Margarita" style="width:150px">
-</a>
-<a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoyevsky/dp/0241252083/ref=sr_1_fkmr2_2?dchild=1&keywords=white+nights+dostoevsky+penguin&qid=1624192899&sr=8-2-fkmr2">
-  <img class=".books-image" src="https://banashri.github.io/images/white-nights.jpg" alt="White Nights" style="width:150px">
 </a>
 
 <!--<a target="_blank" href="https://www.amazon.de/-/en/Patricia-Ingham/dp/0140434240/ref=sr_1_5?dchild=1&keywords=north+and+south&qid=1622448871&sr=8-5">
