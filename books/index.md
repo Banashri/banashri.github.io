@@ -31,12 +31,12 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/0099981904/ref=sr_1_5?crid=2VMPIEBV0MTBM&dchild=1&keywords=crime+and+punishment&qid=1611423230&sprefix=crime+and+%2Caps%2C175&sr=8-5">
   <img class=".books-image" src="https://banashri.github.io/images/candp.jpg" alt="Crime and Punishment" style="width:150px">
 </a>
-<a target="_blank" href="https://www.amazon.de/-/en/Leo-Tolstoy/dp/0140449175/ref=sr_1_8?crid=1PELFGBOG0OHM&dchild=1&keywords=anna+karenina&qid=1611423018&s=books&sprefix=Anna+kare%2Cstripbooks%2C184&sr=1-8">
+<!--<a target="_blank" href="https://www.amazon.de/-/en/Leo-Tolstoy/dp/0140449175/ref=sr_1_8?crid=1PELFGBOG0OHM&dchild=1&keywords=anna+karenina&qid=1611423018&s=books&sprefix=Anna+kare%2Cstripbooks%2C184&sr=1-8">
   <img class=".books-image" src="https://banashri.github.io/images/anna-k.jpg" alt="Anna Karenina" style="width:150px">
-</a>
-<a target="_blank" href="https://www.amazon.de/-/en/Victor-Hugo/dp/1846140498/ref=sr_1_1?dchild=1&keywords=les+miserables+norman+denny+hardcover&qid=1620717765&sr=8-1">
+</a>-->
+<!--<a target="_blank" href="https://www.amazon.de/-/en/Victor-Hugo/dp/1846140498/ref=sr_1_1?dchild=1&keywords=les+miserables+norman+denny+hardcover&qid=1620717765&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/hugo.jpg" alt="Les Miserables" style="width:150px">
-</a>
+</a>-->
 <a target="_blank" href="https://www.amazon.de/-/en/Stephen-Fry/dp/1405934131/ref=sr_1_1?dchild=1&keywords=mythos&qid=1615484910&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/mythos.jpg" alt="Mythos" style="width:150px">
 </a>
