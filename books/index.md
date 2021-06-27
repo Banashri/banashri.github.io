@@ -65,7 +65,7 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
   <img class=".books-image" src="https://banashri.github.io/images/notes-from-underground.jpg" alt="Notes from Underground" style="width:150px">
 </a>
 
-**Ongoing**
+**On-hold**
 
 <a target="_blank" href="https://www.amazon.de/-/en/Mikhail-Bulgakov/dp/0143108271/ref=sr_1_3?crid=10EO43SSQCGM2&dchild=1&keywords=the+master+and+margarita&qid=1624192806&sprefix=the+master+and+margarita%2Caps%2C192&sr=8-3">
   <img class=".books-image" src="https://banashri.github.io/images/master-margarita.jpg" alt="The Master and Margarita" style="width:150px">
