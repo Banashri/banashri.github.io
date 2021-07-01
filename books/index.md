@@ -71,6 +71,18 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
   <img class=".books-image" src="https://banashri.github.io/images/master-margarita.jpg" alt="The Master and Margarita" style="width:150px">
 </a>
 
+
+**Ongoing**
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/love.jpg" alt="First Love and other stories" style="width:150px">
+</a>
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/plays.jpg" alt="Plays: Ivanov; The Seagull; Uncle Vanya; Three Sisters; The CherryOrchard" style="width:150px">
+</a>
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/fathers-sons.jpg" alt="Fathers and Sons" style="width:150px">
+</a>
+
 <!--<a target="_blank" href="https://www.amazon.de/-/en/Patricia-Ingham/dp/0140434240/ref=sr_1_5?dchild=1&keywords=north+and+south&qid=1622448871&sr=8-5">
   <img class=".books-image" src="https://banashri.github.io/images/north-and-south.jpg" alt="North and South" style="width:150px">
 </a>-->
