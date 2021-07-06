@@ -64,36 +64,33 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/067973452X/ref=sr_1_2?dchild=1&keywords=notes+from+underground&qid=1624724739&sr=8-2">
   <img class=".books-image" src="https://banashri.github.io/images/notes-from-underground.jpg" alt="Notes from Underground" style="width:150px">
 </a>
-
-**On-hold**
-
-<a target="_blank" href="https://www.amazon.de/-/en/Mikhail-Bulgakov/dp/0143108271/ref=sr_1_3?crid=10EO43SSQCGM2&dchild=1&keywords=the+master+and+margarita&qid=1624192806&sprefix=the+master+and+margarita%2Caps%2C192&sr=8-3">
-  <img class=".books-image" src="https://banashri.github.io/images/master-margarita.jpg" alt="The Master and Margarita" style="width:150px">
-</a>
-
-
-**Ongoing**
-
-<a target="_blank" href="#">
-  <img class=".books-image" src="https://banashri.github.io/images/love.jpg" alt="First Love and other stories" style="width:150px">
-</a>
-<a target="_blank" href="#">
-  <img class=".books-image" src="https://banashri.github.io/images/plays.jpg" alt="Plays: Ivanov; The Seagull; Uncle Vanya; Three Sisters; The CherryOrchard" style="width:150px">
-</a>
 <a target="_blank" href="#">
   <img class=".books-image" src="https://banashri.github.io/images/fathers-sons.jpg" alt="Fathers and Sons" style="width:150px">
 </a>
 
-<!--<a target="_blank" href="https://www.amazon.de/-/en/Patricia-Ingham/dp/0140434240/ref=sr_1_5?dchild=1&keywords=north+and+south&qid=1622448871&sr=8-5">
-  <img class=".books-image" src="https://banashri.github.io/images/north-and-south.jpg" alt="North and South" style="width:150px">
-</a>-->
-<!--<a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/067973452X/ref=sr_1_3?crid=3P0DRZ3YXCURI&dchild=1&keywords=notes+from+underground&qid=1622320995&sprefix=notes+from+under%2Caps%2C188&sr=8-3">
-  <img class=".books-image" src="https://banashri.github.io/images/notes-from-underground.jpg" alt="Notes from Underground" style="width:150px">
-</a>-->
+**On-hold**
 
-<!--<a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/plays.jpg" alt="Plays: Ivanov; The Seagull; Uncle Vanya; Three Sisters; The CherryOrchard" style="width:150px">
+</a>
+<a target="_blank" href="https://www.amazon.de/-/en/Mikhail-Bulgakov/dp/0143108271/ref=sr_1_3?crid=10EO43SSQCGM2&dchild=1&keywords=the+master+and+margarita&qid=1624192806&sprefix=the+master+and+margarita%2Caps%2C192&sr=8-3">
+  <img class=".books-image" src="https://banashri.github.io/images/master-margarita.jpg" alt="The Master and Margarita" style="width:150px">
+</a>
+<!--a target="_blank" href="https://www.amazon.de/-/en/Patricia-Ingham/dp/0140434240/ref=sr_1_5?dchild=1&keywords=north+and+south&qid=1622448871&sr=8-5">
+  <img class=".books-image" src="https://banashri.github.io/images/north-and-south.jpg" alt="North and South" style="width:150px">
+</a-->
+<!--a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
   <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
-</a>-->
+</a-->
+
+**Ongoing**
+
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/frankenstein.jpg" alt="Frankenstein: or The Modern Prometheus: The 1818 Text" style="width:150px">
+</a>
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/love.jpg" alt="First Love and other stories" style="width:150px">
+</a>
 
 **Waiting**
 - [Moby Dick](https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1620718213&sr=8-1)
