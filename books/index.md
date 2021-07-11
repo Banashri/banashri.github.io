@@ -64,7 +64,7 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/067973452X/ref=sr_1_2?dchild=1&keywords=notes+from+underground&qid=1624724739&sr=8-2">
   <img class=".books-image" src="https://banashri.github.io/images/notes-from-underground.jpg" alt="Notes from Underground" style="width:150px">
 </a>
-<a target="_blank" href="#">
+<a target="_blank" href="https://www.amazon.de/-/en/Iwan-S-Turgenjew/dp/019953604X/ref=sr_1_1?dchild=1&keywords=fathers+and+sons&qid=1626028426&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/fathers-sons.jpg" alt="Fathers and Sons" style="width:150px">
 </a>
 
@@ -85,6 +85,9 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 
 **Ongoing**
 
+<a target="_blank" href="https://www.amazon.de/-/en/Mikhail-Lermontov-ebook/dp/B07MXD77FM/ref=sr_1_9?crid=C81EJ36ZYCSY&dchild=1&keywords=a+hero+of+our+time&qid=1626028259&sprefix=a+hero+of+%2Caps%2C177&sr=8-9">
+  <img class=".books-image" src="https://banashri.github.io/images/hero-time.jpg" alt="A Hero Of Our Time" style="width:150px">
+</a>
 <a target="_blank" href="#">
   <img class=".books-image" src="https://banashri.github.io/images/frankenstein.jpg" alt="Frankenstein: or The Modern Prometheus: The 1818 Text" style="width:150px">
 </a>
@@ -93,9 +96,10 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 </a>
 
 **Waiting**
+- [The Song of Achilles](https://www.amazon.de/-/en/Madeline-Miller/dp/1408891387/ref=sr_1_1?dchild=1&keywords=song+of+achilles&qid=1626028558&sr=8-1)
+- [Bleak House](https://www.amazon.de/gp/product/0199536317/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [Moby Dick](https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1620718213&sr=8-1)
 - [The Divine Comedy](https://www.amazon.de/-/en/Peter-Armour/dp/0679433139/ref=sr_1_5?crid=18P199LOIUJ60&dchild=1&keywords=divine+comedy&qid=1611423081&s=books&sprefix=Divine+Co%2Cstripbooks%2C333&sr=1-5)
-- [Bleak House](https://www.amazon.de/gp/product/0199536317/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [David Copperfield](https://www.amazon.de/-/en/Jeremy-Tambling/dp/0140439447/ref=sr_1_10?crid=1N5RKF13UQRBW&dchild=1&keywords=david+copperfield&qid=1611423951&sprefix=David+copper%2Caps%2C180&sr=8-10)
 
 <!--
