@@ -67,6 +67,9 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Iwan-S-Turgenjew/dp/019953604X/ref=sr_1_1?dchild=1&keywords=fathers+and+sons&qid=1626028426&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/fathers-sons.jpg" alt="Fathers and Sons" style="width:150px">
 </a>
+<a target="_blank" href="https://www.amazon.de/-/en/Mikhail-Lermontov-ebook/dp/B07MXD77FM/ref=sr_1_9?crid=C81EJ36ZYCSY&dchild=1&keywords=a+hero+of+our+time&qid=1626028259&sprefix=a+hero+of+%2Caps%2C177&sr=8-9">
+  <img class=".books-image" src="https://banashri.github.io/images/hero-time.jpeg" alt="A Hero Of Our Time" style="width:150px">
+</a>
 
 **On-hold**
 
@@ -85,9 +88,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 
 **Ongoing**
 
-<a target="_blank" href="https://www.amazon.de/-/en/Mikhail-Lermontov-ebook/dp/B07MXD77FM/ref=sr_1_9?crid=C81EJ36ZYCSY&dchild=1&keywords=a+hero+of+our+time&qid=1626028259&sprefix=a+hero+of+%2Caps%2C177&sr=8-9">
-  <img class=".books-image" src="https://banashri.github.io/images/hero-time.jpeg" alt="A Hero Of Our Time" style="width:150px">
-</a>
 <a target="_blank" href="#">
   <img class=".books-image" src="https://banashri.github.io/images/frankenstein.jpg" alt="Frankenstein: or The Modern Prometheus: The 1818 Text" style="width:150px">
 </a>
