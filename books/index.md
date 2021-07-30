@@ -34,9 +34,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <!--<a target="_blank" href="https://www.amazon.de/-/en/Leo-Tolstoy/dp/0140449175/ref=sr_1_8?crid=1PELFGBOG0OHM&dchild=1&keywords=anna+karenina&qid=1611423018&s=books&sprefix=Anna+kare%2Cstripbooks%2C184&sr=1-8">
   <img class=".books-image" src="https://banashri.github.io/images/anna-k.jpg" alt="Anna Karenina" style="width:150px">
 </a>-->
-<!--<a target="_blank" href="https://www.amazon.de/-/en/Victor-Hugo/dp/1846140498/ref=sr_1_1?dchild=1&keywords=les+miserables+norman+denny+hardcover&qid=1620717765&sr=8-1">
-  <img class=".books-image" src="https://banashri.github.io/images/hugo.jpg" alt="Les Miserables" style="width:150px">
-</a>-->
 <a target="_blank" href="https://www.amazon.de/-/en/Stephen-Fry/dp/1405934131/ref=sr_1_1?dchild=1&keywords=mythos&qid=1615484910&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/mythos.jpg" alt="Mythos" style="width:150px">
 </a>
@@ -70,6 +67,9 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Mikhail-Lermontov-ebook/dp/B07MXD77FM/ref=sr_1_9?crid=C81EJ36ZYCSY&dchild=1&keywords=a+hero+of+our+time&qid=1626028259&sprefix=a+hero+of+%2Caps%2C177&sr=8-9">
   <img class=".books-image" src="https://banashri.github.io/images/hero-time.jpeg" alt="A Hero Of Our Time" style="width:150px">
 </a>
+<a target="_blank" href="https://www.amazon.de/-/en/Alexander-Pushkin/dp/0199538646/ref=sr_1_1?dchild=1&keywords=eugene+onegin+oxford&qid=1626540832&sr=8-1">
+  <img class=".books-image" src="https://banashri.github.io/images/pushkin.jpg" alt="Pushkin, A: Eugene Onegin: A Novel in Verse" style="width:150px">
+</a>
 
 <!--
 **On-hold**
@@ -89,15 +89,12 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 
 **Ongoing**
 
-<a target="_blank" href="https://www.amazon.de/-/en/Alexander-Pushkin/dp/0199538646/ref=sr_1_1?dchild=1&keywords=eugene+onegin+oxford&qid=1626540832&sr=8-1">
-  <img class=".books-image" src="https://banashri.github.io/images/pushkin.jpg" alt="Pushkin, A: Eugene Onegin: A Novel in Verse" style="width:150px">
-</a>
-<!--<a target="_blank" href="#">
-  <img class=".books-image" src="https://banashri.github.io/images/frankenstein.jpg" alt="Frankenstein: or The Modern Prometheus: The 1818 Text" style="width:150px">
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/milton.jpg" alt="Paradise Lost" style="width:150px">
 </a>
 <a target="_blank" href="#">
-  <img class=".books-image" src="https://banashri.github.io/images/love.jpg" alt="First Love and other stories" style="width:150px">
-</a>-->
+  <img class=".books-image" src="https://banashri.github.io/images/frankenstein.jpg" alt="Frankenstein: or The Modern Prometheus: The 1818 Text" style="width:150px">
+</a>
 
 **Waiting**
 - [The Song of Achilles](https://www.amazon.de/-/en/Madeline-Miller/dp/1408891387/ref=sr_1_1?dchild=1&keywords=song+of+achilles&qid=1626028558&sr=8-1)
