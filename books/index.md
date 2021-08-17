@@ -70,7 +70,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Alexander-Pushkin/dp/0199538646/ref=sr_1_1?dchild=1&keywords=eugene+onegin+oxford&qid=1626540832&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/pushkin.jpg" alt="Pushkin, A: Eugene Onegin: A Novel in Verse" style="width:150px">
 </a>
-
 <a target="_blank" href="#">
   <img class=".books-image" src="https://banashri.github.io/images/milton.jpg" alt="Paradise Lost" style="width:150px">
 </a>
