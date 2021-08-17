@@ -107,17 +107,12 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 - [Demons](#)
 - [The Picture of Dorian Gray](#)
 - [Maurice](#)
+
 <!--
 - [The Song of Achilles](https://www.amazon.de/-/en/Madeline-Miller/dp/1408891387/ref=sr_1_1?dchild=1&keywords=song+of+achilles&qid=1626028558&sr=8-1)
 - [Bleak House](https://www.amazon.de/gp/product/0199536317/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [The Divine Comedy](https://www.amazon.de/-/en/Peter-Armour/dp/0679433139/ref=sr_1_5?crid=18P199LOIUJ60&dchild=1&keywords=divine+comedy&qid=1611423081&s=books&sprefix=Divine+Co%2Cstripbooks%2C333&sr=1-5)
 - [David Copperfield](https://www.amazon.de/-/en/Jeremy-Tambling/dp/0140439447/ref=sr_1_10?crid=1N5RKF13UQRBW&dchild=1&keywords=david+copperfield&qid=1611423951&sprefix=David+copper%2Caps%2C180&sr=8-10)
--->
-<!--
-To push myself a bit more, ;)
-- [1984](https://www.amazon.de/-/en/George-Orwell/dp/0141036141/ref=sr_1_4?dchild=1&keywords=1984&qid=1611423410&sr=8-4)
-- [Sense and Sensibility](https://www.amazon.de/gp/product/0141199679/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
-- [Great Expectations](https://www.amazon.de/-/en/Charles-Dickens/dp/0141198893/ref=sr_1_1?crid=YJWRY7Z7C8TB&dchild=1&keywords=great+expectations+charles+dickens+penguin&qid=1611423208&sprefix=great+expectations+Charles+dickens+pen%2Caps%2C345&sr=8-1)
 -->
 
 Reading is fun!
