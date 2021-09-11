@@ -76,6 +76,9 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="#">
   <img class=".books-image" src="https://banashri.github.io/images/dead-souls.jpg" alt="Dead Souls" style="width:150px">
 </a>
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/leskov.jpg" alt="Lady Macbeth of Mtsensk" style="width:150px">
+</a>
 
 <!--
 **On-hold**
