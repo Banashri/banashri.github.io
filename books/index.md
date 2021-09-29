@@ -79,6 +79,12 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="#">
   <img class=".books-image" src="https://banashri.github.io/images/leskov.jpg" alt="Lady Macbeth of Mtsensk" style="width:150px">
 </a>
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/james-best.jpeg" alt="The Portrait of a Lady" style="width:150px">
+</a>
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/frankenstein.jpg" alt="Frankenstein: or The Modern Prometheus: The 1818 Text" style="width:150px">
+</a>
 
 <!--
 **On-hold**
@@ -95,14 +101,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 </a-->
 
 **Ongoing**
-
-<a target="_blank" href="#">
-  <img class=".books-image" src="https://banashri.github.io/images/james-best.jpeg" alt="The Portrait of a Lady" style="width:150px">
-</a>
-<a target="_blank" href="#">
-  <img class=".books-image" src="https://banashri.github.io/images/frankenstein.jpg" alt="Frankenstein: or The Modern Prometheus: The 1818 Text" style="width:150px">
-</a>
-
 
 **Waiting**
 - [Moby Dick](https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1620718213&sr=8-1)
