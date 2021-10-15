@@ -106,7 +106,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 </a>
 
 **Waiting**
-- [Moby Dick](https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1620718213&sr=8-1)
 - [Demons](#)
 - [The Picture of Dorian Gray](#)
 - [Maurice](#)
