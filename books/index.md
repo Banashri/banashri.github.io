@@ -43,9 +43,9 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/1857152549/ref=sr_1_3?dchild=1&keywords=The+idiot&qid=1620717995&sr=8-3">
   <img class=".books-image" src="https://banashri.github.io/images/idiot.jpg" alt="The Idiot" style="width:150px">
 </a>
-<a target="_blank" href="https://www.amazon.de/-/en/George-Orwell/dp/0141183055/ref=sr_1_1?crid=3O45CU7FWXDR0&dchild=1&keywords=homage+to+catalonia&qid=1622803783&sprefix=homage+to+catalonia%2Caps%2C180&sr=8-1">
+<!--<a target="_blank" href="https://www.amazon.de/-/en/George-Orwell/dp/0141183055/ref=sr_1_1?crid=3O45CU7FWXDR0&dchild=1&keywords=homage+to+catalonia&qid=1622803783&sprefix=homage+to+catalonia%2Caps%2C180&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/homage.jpeg" alt="Homage to Catalonia" style="width:150px">
-</a>
+</a>-->
 <a target="_blank" href="https://www.amazon.de/-/en/Epictetus/dp/1548647799/ref=sr_1_1?dchild=1&keywords=enchiridion&qid=1622969908&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/enchiridion.jpg" alt="Enchiridion" style="width:150px">
 </a>
@@ -85,7 +85,9 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="#">
   <img class=".books-image" src="https://banashri.github.io/images/frankenstein.jpg" alt="Frankenstein: or The Modern Prometheus: The 1818 Text" style="width:150px">
 </a>
-
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/learned-optimism.jpg" alt="Learned Optimism: How to Change Your Mind and Your Life" style="width:150px">
+</a>
 <!--
 **On-hold**
 
