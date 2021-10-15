@@ -98,11 +98,12 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <!--a target="_blank" href="https://www.amazon.de/-/en/Patricia-Ingham/dp/0140434240/ref=sr_1_5?dchild=1&keywords=north+and+south&qid=1622448871&sr=8-5">
   <img class=".books-image" src="https://banashri.github.io/images/north-and-south.jpg" alt="North and South" style="width:150px">
 </a-->
-<!--a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
-  <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
-</a-->
 
 **Ongoing**
+
+<a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
+  <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
+</a>
 
 **Waiting**
 - [Moby Dick](https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1620718213&sr=8-1)
