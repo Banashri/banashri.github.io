@@ -111,6 +111,18 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
   <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
 </a>
 
-My plan is to read only books that has over 1000 pages.
+**Next plans**
+
+Hmm, I need to finish a couple of books that are stopped due to other commitments.
+
+- Anna Karenina
+- Think Like a Monk
+
+I tried to read Moonstone by Wilkie Collins, but for uncomfortable reasons I would like to avoid any stories related to British
+governed India. So, maybe no Wilkie Collins and instead of that, I would read some children books.
+
+Or some serious books, possibly Solzhenitsyn depending on the time permitted.
+
+My plan is to read only books that has over 1000 pages, afterwards.
 
 Reading is fun!
