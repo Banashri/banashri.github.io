@@ -115,8 +115,8 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 
 Hmm, I need to finish a couple of books that are stopped due to other commitments.
 
-- Anna Karenina
-- Think Like a Monk
+- [Anna Karenina](#)
+- [Think Like a Monk](#)
 
 I would read some children fantasy books in the last months of the year.
 
