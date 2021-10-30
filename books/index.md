@@ -118,11 +118,8 @@ Hmm, I need to finish a couple of books that are stopped due to other commitment
 - Anna Karenina
 - Think Like a Monk
 
-I tried to read Moonstone by Wilkie Collins, but for uncomfortable reasons I would like to avoid any stories related to British
-governed India. So, maybe no Wilkie Collins and instead of that, I would read some children books.
+I would read some children fantasy books in the last months of the year.
 
-Or some serious books, possibly Solzhenitsyn depending on the time permitted.
-
-My plan is to read only books that has over 1000 pages, afterwards.
+After that, my plan is to read only books that has over 1000 pages. Stay tuned for the updates! ;)
 
 Reading is fun!
