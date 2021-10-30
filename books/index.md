@@ -88,6 +88,10 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="#">
   <img class=".books-image" src="https://banashri.github.io/images/learned-optimism.jpg" alt="Learned Optimism: How to Change Your Mind and Your Life" style="width:150px">
 </a>
+<a target="_blank" href="#">
+  <img class=".books-image" src="https://banashri.github.io/images/bovary.jpg" alt="Madame Bovary" style="width:150px">
+</a>
+
 <!--
 **On-hold**
 <a target="_blank" href="https://www.amazon.de/-/en/Mikhail-Bulgakov/dp/0143108271/ref=sr_1_3?crid=10EO43SSQCGM2&dchild=1&keywords=the+master+and+margarita&qid=1624192806&sprefix=the+master+and+margarita%2Caps%2C192&sr=8-3">
@@ -100,20 +104,13 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 
 **Ongoing**
 
+<a target="_blank" href="https://www.amazon.de/-/en/Nick-Groom/dp/0198704453/ref=sr_1_1?crid=OUR9XXCOSWIU&dchild=1&keywords=the+monk+matthew+lewis&qid=1635619957&qsid=262-6376524-6818030&sprefix=the+monk+%2Caps%2C192&sr=8-1&sres=0198704453%2C0140436030%2CB08DV3422M%2CB091F5QDMP%2CB09KDZYPYR%2CB09KMB4Y5Z%2CB09JJ7FB11%2CB09JY1947T%2CB09KNCXXDV%2CB09K25RXDG%2CB09K21C79K%2CB09KKG2992%2CB09JYP2JY7%2CB09JY9XQC9%2CB08CG2QN3N%2CB09FRR76LJ">
+  <img class=".books-image" src="https://banashri.github.io/images/monk.jpg" alt="The Monk" style="width:150px">
+</a>
 <a target="_blank" href="https://www.amazon.de/-/en/Tony-Tanner/dp/0199535728/ref=sr_1_1?dchild=1&keywords=Moby+dick+oxford&qid=1611423054&s=books&sr=1-1">
   <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
 </a>
 
-**Waiting**
-- [Demons](#)
-- [The Picture of Dorian Gray](#)
-- [Maurice](#)
-
-<!--
-- [The Song of Achilles](https://www.amazon.de/-/en/Madeline-Miller/dp/1408891387/ref=sr_1_1?dchild=1&keywords=song+of+achilles&qid=1626028558&sr=8-1)
-- [Bleak House](https://www.amazon.de/gp/product/0199536317/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
-- [The Divine Comedy](https://www.amazon.de/-/en/Peter-Armour/dp/0679433139/ref=sr_1_5?crid=18P199LOIUJ60&dchild=1&keywords=divine+comedy&qid=1611423081&s=books&sprefix=Divine+Co%2Cstripbooks%2C333&sr=1-5)
-- [David Copperfield](https://www.amazon.de/-/en/Jeremy-Tambling/dp/0140439447/ref=sr_1_10?crid=1N5RKF13UQRBW&dchild=1&keywords=david+copperfield&qid=1611423951&sprefix=David+copper%2Caps%2C180&sr=8-10)
--->
+My plan is to read only books that has over 1000 pages.
 
 Reading is fun!
