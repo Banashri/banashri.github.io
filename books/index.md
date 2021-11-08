@@ -116,12 +116,7 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 
 **Next plans**
 
-Hmm, I need to finish a couple of books that are stopped due to other commitments.
-
-- [Anna Karenina](#)
-- [Think Like a Monk](#)
-
-I would read some children fantasy books in the last months of the year.
+Some books (like [Think like a Monk](#)) on spirituality and children's fantasy books are on top of my list.
 
 After that, my plan is to read only books that has over 1000 pages. Stay tuned for the updates! ;)
 
