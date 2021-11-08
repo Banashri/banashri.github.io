@@ -5,18 +5,6 @@ title: An Odyssey
 
 <img src="https://banashri.github.io/images/bookshelf.jpg" alt="Books" title="Books" style="width:100%; height=25%"/>
 
-<!--<table class="booksTable">
-  <tr>
-    <td style="width:75%">
-      <img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" style="width:100%; height=25%"/>
-    </td>
-    <td style="width:25%">
-      <p>I love <em>things</em> - and no wonder, I consider books as my best friend. I bring a suitcase full of books each time
-      I visit my parents' place. ;)</p>
-    </td>
-  </tr>
-</table>-->
-
 I love <em>traveling</em> - no wonder that books are my best friend as they allow me to travel through the world, and time. Every time I visit my home, I carry a suitcase full of books.
 In 2021, I am focusing only on 19th century classics, and would travel through Russia, France and England.
 
@@ -43,9 +31,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 <a target="_blank" href="https://www.amazon.de/-/en/Fyodor-Dostoevsky/dp/1857152549/ref=sr_1_3?dchild=1&keywords=The+idiot&qid=1620717995&sr=8-3">
   <img class=".books-image" src="https://banashri.github.io/images/idiot.jpg" alt="The Idiot" style="width:150px">
 </a>
-<!--<a target="_blank" href="https://www.amazon.de/-/en/George-Orwell/dp/0141183055/ref=sr_1_1?crid=3O45CU7FWXDR0&dchild=1&keywords=homage+to+catalonia&qid=1622803783&sprefix=homage+to+catalonia%2Caps%2C180&sr=8-1">
-  <img class=".books-image" src="https://banashri.github.io/images/homage.jpeg" alt="Homage to Catalonia" style="width:150px">
-</a>-->
 <a target="_blank" href="https://www.amazon.de/-/en/Epictetus/dp/1548647799/ref=sr_1_1?dchild=1&keywords=enchiridion&qid=1622969908&sr=8-1">
   <img class=".books-image" src="https://banashri.github.io/images/enchiridion.jpg" alt="Enchiridion" style="width:150px">
 </a>
@@ -95,16 +80,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
   <img class=".books-image" src="https://banashri.github.io/images/moby-dick.jpg" alt="Moby Dick" style="width:150px">
 </a>
 
-<!--
-**On-hold**
-<a target="_blank" href="https://www.amazon.de/-/en/Mikhail-Bulgakov/dp/0143108271/ref=sr_1_3?crid=10EO43SSQCGM2&dchild=1&keywords=the+master+and+margarita&qid=1624192806&sprefix=the+master+and+margarita%2Caps%2C192&sr=8-3">
-  <img class=".books-image" src="https://banashri.github.io/images/master-margarita.jpg" alt="The Master and Margarita" style="width:150px">
-</a>
-<!--a target="_blank" href="https://www.amazon.de/-/en/Patricia-Ingham/dp/0140434240/ref=sr_1_5?dchild=1&keywords=north+and+south&qid=1622448871&sr=8-5">
-  <img class=".books-image" src="https://banashri.github.io/images/north-and-south.jpg" alt="North and South" style="width:150px">
-</a>
--->
-
 **Ongoing**
 
 <a target="_blank" href="https://www.amazon.de/-/en/Leo-Tolstoy/dp/0099540665/ref=sr_1_4?keywords=anna+karenina+maude&qid=1636400374&qsid=262-6376524-6818030&sr=8-4&sres=B077J7X537%2C0099540665%2CB004JF4LCU%2CB00FMWDBRU%2CB083JK51RB%2CB0787KB2MX%2CB00EOZS1FI%2C0140449175%2C3625180863%2CB08CPCBPX8%2CB00IAK1736%2CB07KLCY8NF%2CB09L4YZZ1T%2C3742312340%2CB089M1J4GN%2CB08D527X62">
@@ -116,8 +91,6 @@ In 2021, I am focusing only on 19th century classics, and would travel through R
 
 **Next plans**
 
-Some books (like [Think like a Monk](#)) on spirituality and children's fantasy books are on top of my list.
+Fantasy books for the children, books on Spiritualism, Stoicism and a comfortable transition to the 20th century in Russia are essential for this reader's heart and soul. ;)
 
-After that, my plan is to read only books that has over 1000 pages. Stay tuned for the updates! ;)
-
-Reading is fun!
+Reading is fun - try yourself!
