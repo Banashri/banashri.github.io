@@ -4,7 +4,9 @@ markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
 
+relative_links:
+  enabled:     true
+  collections: false
 
 paginate: 2
-gems: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
-
+gems: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-relative-links]
