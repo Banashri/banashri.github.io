@@ -109,6 +109,10 @@ ul.posts li {
 #myTable tr.header, #myTable tr:hover {
   background-color: #31b7b0;
 }
+#myTable tr:hover {
+  background-color: #ffcd18e0;
+}
+
 
 #myTable tr.toberead {
   background-color: #ffcd18e0; /* #0b87cf57; */
