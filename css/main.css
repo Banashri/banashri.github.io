@@ -110,6 +110,6 @@ ul.posts li {
   background-color: #31b7b0;
 }
 
-.ongoing {
+#myTable tr.ongoing {
   background-color: #31b7b0;
 }
