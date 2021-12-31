@@ -118,5 +118,6 @@ ul.posts li {
   background-color: #ffcd18e0; /* #0b87cf57; */
 }
 #myTable tr.ongoing {
-  background-color: #aeafb55c;
+  background-color: #103758;
+  color: white
 }
