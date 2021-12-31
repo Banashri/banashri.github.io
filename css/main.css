@@ -110,7 +110,7 @@ ul.posts li {
   background-color: #31b7b0;
 }
 
-#myTable tr.tbr {
+#myTable tr.toberead {
   background-color: #ffcd18e0; /* #0b87cf57; */
 }
 #myTable tr.ongoing {
