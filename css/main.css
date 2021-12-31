@@ -93,6 +93,7 @@ ul.posts li {
   border-collapse: collapse;
   width: 100%;
   border: 1px solid #ddd;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
   font-size: inherit;
 }
 
