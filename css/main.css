@@ -109,3 +109,7 @@ ul.posts li {
 #myTable tr.header, #myTable tr:hover {
   background-color: #31b7b0;
 }
+
+.ongoing {
+  background-color: #31b7b0;
+}
