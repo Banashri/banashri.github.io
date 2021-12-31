@@ -93,7 +93,7 @@ ul.posts li {
   border-collapse: collapse;
   width: 100%;
   border: 1px solid #ddd;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   font-size: inherit;
 }
 
@@ -107,5 +107,5 @@ ul.posts li {
 }
 
 #myTable tr.header, #myTable tr:hover {
-  background-color: #f1f1f1;
+  background-color: #31b7b0;
 }
