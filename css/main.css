@@ -93,7 +93,7 @@ ul.posts li {
   border-collapse: collapse;
   width: 100%;
   border: 1px solid #ddd;
-  font-size: 18px;
+  font-size: inherit;
 }
 
 #myTable th, #myTable td {
