@@ -121,3 +121,8 @@ ul.posts li {
   background-color: #103758;
   color: white
 }
+
+ul {
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: inherit;
+}
