@@ -5,7 +5,7 @@ title: Becoming
 
 <img src="https://banashri.github.io/images/books.jpg" alt="Books" title="Books" style="width:100%; height=25%"/>
 
-Books are my best friend. One day I would love to build my own library.
+Bücher sind mein bester Freund und eines Tages möchte ich meine eigene Bibliothek abbauen. ^-^
 
 <a class = "text" href="{% link books/read-books.md %}">Gelesene Bücher</a>
 <br/>
