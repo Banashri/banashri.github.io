@@ -1,0 +1,55 @@
+---
+import Base from "../../../../../layouts/Base.astro";
+import { getCollection } from "astro:content";
+import { normalizeTags, parsePostFilename } from "../../../../../lib/posts";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog");
+  return posts.map((post) => {
+    const { year, month, day, slug } = parsePostFilename(post.id);
+    return {
+      params: { year, month, day, slug },
+      props: { post },
+    };
+  });
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+const tags = normalizeTags(post.data.tags);
+---
+
+<Base title={`${post.data.title} · Banashri`} description={post.data.title}>
+  <main>
+    <a class="back" href="/blog">← Notes</a>
+    <article class="prose">
+      <h1>{post.data.title}</h1>
+      <p class="meta">
+        <time datetime={post.data.date.toISOString()}>
+          {
+            post.data.date.toLocaleDateString("en-GB", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+            })
+          }
+        </time>
+      </p>
+      {
+        tags.length > 0 && (
+          <p class="tags">
+            [
+            {tags.map((t, i) => (
+              <>
+                {i > 0 && " "}
+                <code>{t}</code>
+              </>
+            ))}
+            ]
+          </p>
+        )
+      }
+      <Content />
+    </article>
+  </main>
+</Base>

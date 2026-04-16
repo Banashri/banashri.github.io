@@ -1,0 +1,33 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getCollection } from "astro:content";
+import { postUrl } from "../../lib/posts";
+
+const posts = (await getCollection("blog")).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+---
+
+<Base title="Notes · Banashri" description="Writing and notes.">
+  <main>
+    <h1 class="page-title">Notes</h1>
+    <ul class="post-list">
+      {
+        posts.map((post) => (
+          <li>
+            <time datetime={post.data.date.toISOString()}>
+              {post.data.date.toLocaleDateString("en-GB", {
+                year: "numeric",
+                month: "short",
+                day: "numeric",
+              })}
+            </time>
+            <a class="title" href={postUrl(post)}>
+              {post.data.title}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </main>
+</Base>

@@ -6,3 +6,12 @@ vendor
 .DS_Store
 books/.DS_Store
 diary/*
+
+# Astro
+node_modules
+dist
+.astro
+
+# Local env
+.env
+.env.*

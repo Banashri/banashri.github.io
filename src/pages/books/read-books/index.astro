@@ -1,0 +1,22 @@
+---
+/** Legacy Jekyll URL `books/read-books` → `/books/read/` */
+const target = "/books/read/";
+---
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <link rel="canonical" href={new URL("books/read/", Astro.site).href} />
+    <title>Redirect</title>
+  </head>
+  <body
+    style="background:#060607;color:#6a6760;font-family:system-ui,sans-serif;padding:2rem;"
+  >
+    <p><a href={target} style="color:#9a8b78;">Continue →</a></p>
+    <script is:inline define:vars={{ target }}>
+      location.replace(target);
+    </script>
+  </body>
+</html>

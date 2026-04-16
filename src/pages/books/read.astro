@@ -1,0 +1,16 @@
+---
+import Base from "../../layouts/Base.astro";
+import ReadBooksGrid from "../../components/ReadBooksGrid.astro";
+---
+
+<Base title="Read · Banashri" description="Books read — covers.">
+  <main>
+    <a class="back" href="/books">← Books</a>
+    <h1 class="page-title">Read</h1>
+    <p class="meta" style="margin-bottom: 2rem;">A reader</p>
+    <ReadBooksGrid />
+    <p class="prose" style="margin-top: 2.5rem; color: var(--text-dim);">
+      Next plans: keep reading.
+    </p>
+  </main>
+</Base>

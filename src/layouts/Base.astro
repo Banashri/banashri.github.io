@@ -1,0 +1,46 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "Banashri" } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <title>{title}</title>
+  </head>
+  <body>
+    <div class="wrap">
+      <header class="site-header">
+        <a href="/">Banashri</a>
+        <nav style="display: flex; gap: 1.25rem; flex-wrap: wrap;">
+          <a href="/blog">Notes</a>
+          <a href="/books">Books</a>
+          <a href="/about">About</a>
+        </nav>
+      </header>
+      <slot />
+      <footer class="site-footer">
+        <a href="mailto:banashri@gmx.de">email</a>
+        ·
+        <a href="https://github.com/banashri">github</a>
+      </footer>
+    </div>
+  </body>
+</html>
