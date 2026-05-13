@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog Design Mockup</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Inter', sans-serif; background: #fafaf8; color: #2c2c2c; font-weight: 300; }
+
+  .mockup-label {
+    background: #333; color: #fff; text-align: center; padding: 10px;
+    font-size: 11px; letter-spacing: 2px; text-transform: uppercase;
+    position: sticky; top: 0; z-index: 100;
+  }
+
+  /* --- NAV --- */
+  .nav {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 28px 60px; border-bottom: 1px solid #e8e6e1;
+    background: #fafaf8;
+  }
+  .nav-logo {
+    font-family: 'Cormorant Garamond', serif; font-size: 26px;
+    font-weight: 300; letter-spacing: 4px; color: #2c2c2c;
+  }
+  .nav-links { display: flex; gap: 32px; }
+  .nav-links a {
+    text-decoration: none; color: #888; font-size: 13px;
+    letter-spacing: 1.5px; text-transform: uppercase; font-weight: 400;
+    transition: color 0.3s;
+  }
+  .nav-links a:hover, .nav-links a.active { color: #2c2c2c; }
+
+  /* --- HERO / HOME --- */
+  .hero {
+    text-align: center; padding: 100px 40px 80px;
+    max-width: 700px; margin: 0 auto;
+  }
+  .hero h1 {
+    font-family: 'Cormorant Garamond', serif; font-size: 52px;
+    font-weight: 300; line-height: 1.2; color: #2c2c2c;
+    margin-bottom: 20px;
+  }
+  .hero p {
+    font-size: 16px; color: #777; line-height: 1.8;
+    max-width: 500px; margin: 0 auto;
+  }
+  .hero-divider {
+    width: 40px; height: 1px; background: #ccc; margin: 30px auto;
+  }
+
+  /* --- QUOTE ACCENT --- */
+  .quote-accent {
+    text-align: center; padding: 50px 40px;
+    background: #f4f3ef; border-top: 1px solid #e8e6e1;
+    border-bottom: 1px solid #e8e6e1;
+  }
+  .quote-accent blockquote {
+    font-family: 'Cormorant Garamond', serif; font-size: 24px;
+    font-style: italic; color: #555; max-width: 600px;
+    margin: 0 auto; line-height: 1.6;
+  }
+  .quote-accent cite {
+    display: block; margin-top: 16px; font-family: 'Inter', sans-serif;
+    font-size: 12px; letter-spacing: 2px; color: #aaa;
+    font-style: normal; text-transform: uppercase;
+  }
+
+  /* --- RECENT POSTS --- */
+  .section-title {
+    font-family: 'Cormorant Garamond', serif; font-size: 32px;
+    font-weight: 300; text-align: center; margin-bottom: 40px;
+    color: #2c2c2c;
+  }
+  .posts-section { padding: 80px 60px; max-width: 900px; margin: 0 auto; }
+  .post-card {
+    padding: 30px 0; border-bottom: 1px solid #eee;
+    display: flex; justify-content: space-between; align-items: baseline;
+  }
+  .post-card:last-child { border-bottom: none; }
+  .post-date { font-size: 12px; color: #aaa; letter-spacing: 1px; min-width: 100px; }
+  .post-info { flex: 1; margin-left: 30px; }
+  .post-title {
+    font-family: 'Cormorant Garamond', serif; font-size: 22px;
+    font-weight: 400; color: #2c2c2c; margin-bottom: 6px;
+  }
+  .post-excerpt { font-size: 14px; color: #888; line-height: 1.6; }
+  .post-tags { display: flex; gap: 8px; margin-left: auto; }
+  .tag {
+    font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: #999; border: 1px solid #ddd; padding: 4px 10px;
+    border-radius: 20px;
+  }
+
+  /* --- FOOTER --- */
+  .footer {
+    text-align: center; padding: 40px; border-top: 1px solid #e8e6e1;
+    font-size: 12px; color: #bbb; letter-spacing: 1px;
+  }
+
+  /* --- SEPARATOR --- */
+  .page-separator {
+    background: linear-gradient(to right, #ddd, #eee, #ddd);
+    height: 3px; margin: 0;
+  }
+  .page-label {
+    background: #eee; text-align: center; padding: 14px;
+    font-size: 11px; letter-spacing: 3px; text-transform: uppercase;
+    color: #999; font-weight: 500;
+  }
+
+  /* --- ABOUT PAGE --- */
+  .about-section {
+    max-width: 750px; margin: 0 auto; padding: 80px 40px;
+    display: flex; gap: 50px; align-items: flex-start;
+  }
+  .about-photo {
+    width: 200px; height: 240px; border-radius: 4px;
+    background: linear-gradient(135deg, #e8e6e1 0%, #d5d0c8 100%);
+    flex-shrink: 0; display: flex; align-items: center;
+    justify-content: center; color: #aaa; font-size: 12px;
+    letter-spacing: 1px;
+  }
+  .about-text h2 {
+    font-family: 'Cormorant Garamond', serif; font-size: 36px;
+    font-weight: 300; margin-bottom: 20px;
+  }
+  .about-text p {
+    font-size: 15px; color: #666; line-height: 1.9; margin-bottom: 16px;
+  }
+
+  /* --- PHOTO GALLERY --- */
+  .gallery-section { padding: 80px 60px; max-width: 1000px; margin: 0 auto; }
+  .gallery-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .gallery-item {
+    aspect-ratio: 1; border-radius: 4px; overflow: hidden;
+    background: linear-gradient(135deg, #e0ddd6 0%, #ccc8be 100%);
+    display: flex; align-items: center; justify-content: center;
+    color: #a09a90; font-size: 11px; letter-spacing: 1px;
+    transition: transform 0.3s, box-shadow 0.3s; cursor: pointer;
+  }
+  .gallery-item:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+  }
+  .gallery-item.tall { grid-row: span 2; aspect-ratio: auto; }
+
+  /* --- BOOKS --- */
+  .books-section { padding: 80px 60px; max-width: 900px; margin: 0 auto; }
+  .book-list { display: flex; flex-direction: column; gap: 24px; }
+  .book-item {
+    display: flex; gap: 24px; align-items: flex-start;
+    padding: 24px; background: #fff; border-radius: 6px;
+    border: 1px solid #eee;
+  }
+  .book-cover {
+    width: 70px; height: 100px; border-radius: 3px; flex-shrink: 0;
+    background: linear-gradient(135deg, #e8e4dc 0%, #d8d2c6 100%);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 9px; color: #aaa;
+  }
+  .book-info h3 {
+    font-family: 'Cormorant Garamond', serif; font-size: 20px;
+    font-weight: 400; margin-bottom: 4px;
+  }
+  .book-author { font-size: 13px; color: #999; margin-bottom: 8px; }
+  .book-status {
+    font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase;
+    padding: 3px 10px; border-radius: 20px; display: inline-block;
+  }
+  .status-read { background: #e8f5e9; color: #4caf50; }
+  .status-reading { background: #fff3e0; color: #ff9800; }
+
+  /* --- TIMELINE --- */
+  .timeline-section { padding: 80px 60px; max-width: 700px; margin: 0 auto; }
+  .timeline { position: relative; padding-left: 40px; }
+  .timeline::before {
+    content: ''; position: absolute; left: 8px; top: 0;
+    bottom: 0; width: 1px; background: #ddd;
+  }
+  .timeline-item { position: relative; margin-bottom: 40px; }
+  .timeline-dot {
+    position: absolute; left: -36px; top: 6px;
+    width: 10px; height: 10px; border-radius: 50%;
+    background: #2c2c2c; border: 2px solid #fafaf8;
+  }
+  .timeline-year {
+    font-size: 12px; letter-spacing: 2px; color: #aaa;
+    margin-bottom: 6px;
+  }
+  .timeline-event {
+    font-family: 'Cormorant Garamond', serif; font-size: 22px;
+    font-weight: 400; color: #2c2c2c; margin-bottom: 6px;
+  }
+  .timeline-desc { font-size: 14px; color: #888; line-height: 1.6; }
+
+  /* --- QUOTES PAGE --- */
+  .quotes-section { padding: 80px 60px; max-width: 800px; margin: 0 auto; }
+  .quotes-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
+  .quote-card {
+    background: #fff; border: 1px solid #eee; border-radius: 6px;
+    padding: 30px; transition: box-shadow 0.3s;
+  }
+  .quote-card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.06); }
+  .quote-card blockquote {
+    font-family: 'Cormorant Garamond', serif; font-size: 18px;
+    font-style: italic; color: #444; line-height: 1.6;
+    margin-bottom: 16px;
+  }
+  .quote-card cite {
+    font-size: 12px; color: #aaa; letter-spacing: 1px;
+    font-style: normal; text-transform: uppercase;
+  }
+
+  /* --- MOBILE RESPONSIVE --- */
+  @media (max-width: 768px) {
+    .nav { padding: 20px 24px; }
+    .nav-links { gap: 16px; }
+    .nav-links a { font-size: 11px; }
+    .hero { padding: 60px 24px 50px; }
+    .hero h1 { font-size: 36px; }
+    .posts-section, .gallery-section, .books-section,
+    .timeline-section, .quotes-section { padding: 50px 24px; }
+    .post-card { flex-direction: column; gap: 8px; }
+    .post-info { margin-left: 0; }
+    .post-tags { margin-left: 0; margin-top: 10px; }
+    .gallery-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .about-section { flex-direction: column; padding: 50px 24px; gap: 30px; }
+    .about-photo { width: 150px; height: 180px; }
+    .quotes-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<!-- HOME PAGE -->
+<div class="mockup-label">Homepage</div>
+<nav class="nav">
+  <div class="nav-logo">Banashri</div>
+  <div class="nav-links">
+    <a href="#" class="active">Home</a>
+    <a href="#">About</a>
+    <a href="#">Blog</a>
+    <a href="#">Photos</a>
+    <a href="#">Books</a>
+    <a href="#">Life</a>
+    <a href="#">Quotes</a>
+  </div>
+</nav>
+
+<div class="hero">
+  <h1>Hello, I'm Banashri</h1>
+  <div class="hero-divider"></div>
+  <p>Welcome to my little corner of the internet. A place for stories, photos, books, and the moments that shape a life.</p>
+</div>
+
+<div class="quote-accent">
+  <blockquote>"The only way to do great work is to love what you do."</blockquote>
+  <cite>Steve Jobs</cite>
+</div>
+
+<div class="posts-section">
+  <h2 class="section-title">Recent Writing</h2>
+  <div class="post-card">
+    <span class="post-date">Mar 2026</span>
+    <div class="post-info">
+      <div class="post-title">The Art of Slowing Down</div>
+      <div class="post-excerpt">Sometimes the best thing you can do is nothing at all...</div>
+    </div>
+    <div class="post-tags"><span class="tag">Reflections</span></div>
+  </div>
+  <div class="post-card">
+    <span class="post-date">Feb 2026</span>
+    <div class="post-info">
+      <div class="post-title">Weekend in the Mountains</div>
+      <div class="post-excerpt">A quiet escape to the hills, where the air smells like pine...</div>
+    </div>
+    <div class="post-tags"><span class="tag">Travel</span></div>
+  </div>
+  <div class="post-card">
+    <span class="post-date">Jan 2026</span>
+    <div class="post-info">
+      <div class="post-title">Books That Changed My Perspective</div>
+      <div class="post-excerpt">Five books I keep coming back to, year after year...</div>
+    </div>
+    <div class="post-tags"><span class="tag">Books</span><span class="tag">Lists</span></div>
+  </div>
+</div>
+
+<div class="footer">Banashri &middot; 2026</div>
+
+<!-- ABOUT PAGE -->
+<div class="page-separator"></div>
+<div class="page-label">About Me Page</div>
+<nav class="nav">
+  <div class="nav-logo">Banashri</div>
+  <div class="nav-links">
+    <a href="#">Home</a>
+    <a href="#" class="active">About</a>
+    <a href="#">Blog</a>
+    <a href="#">Photos</a>
+    <a href="#">Books</a>
+    <a href="#">Life</a>
+    <a href="#">Quotes</a>
+  </div>
+</nav>
+<div class="about-section">
+  <div class="about-photo">Photo</div>
+  <div class="about-text">
+    <h2>About Me</h2>
+    <p>A few words about who I am, what I care about, and why I started this space. This is where your personal story goes — whatever feels right to share.</p>
+    <p>I believe in the quiet moments, in good books, long walks, and conversations that matter. This blog is my way of holding onto the things I don't want to forget.</p>
+  </div>
+</div>
+
+<!-- PHOTO GALLERY -->
+<div class="page-separator"></div>
+<div class="page-label">Photos Page</div>
+<nav class="nav">
+  <div class="nav-logo">Banashri</div>
+  <div class="nav-links">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Blog</a>
+    <a href="#" class="active">Photos</a>
+    <a href="#">Books</a>
+    <a href="#">Life</a>
+    <a href="#">Quotes</a>
+  </div>
+</nav>
+<div class="gallery-section">
+  <h2 class="section-title">Photos</h2>
+  <div class="gallery-grid">
+    <div class="gallery-item">Photo 1</div>
+    <div class="gallery-item tall">Photo 2</div>
+    <div class="gallery-item">Photo 3</div>
+    <div class="gallery-item">Photo 4</div>
+    <div class="gallery-item">Photo 5</div>
+    <div class="gallery-item">Photo 6</div>
+    <div class="gallery-item tall">Photo 7</div>
+    <div class="gallery-item">Photo 8</div>
+    <div class="gallery-item">Photo 9</div>
+  </div>
+</div>
+
+<!-- BOOKS -->
+<div class="page-separator"></div>
+<div class="page-label">Books Page</div>
+<nav class="nav">
+  <div class="nav-logo">Banashri</div>
+  <div class="nav-links">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Blog</a>
+    <a href="#">Photos</a>
+    <a href="#" class="active">Books</a>
+    <a href="#">Life</a>
+    <a href="#">Quotes</a>
+  </div>
+</nav>
+<div class="books-section">
+  <h2 class="section-title">Books I've Read</h2>
+  <div class="book-list">
+    <div class="book-item">
+      <div class="book-cover">Cover</div>
+      <div class="book-info">
+        <h3>Sapiens</h3>
+        <div class="book-author">Yuval Noah Harari</div>
+        <span class="book-status status-read">Read</span>
+      </div>
+    </div>
+    <div class="book-item">
+      <div class="book-cover">Cover</div>
+      <div class="book-info">
+        <h3>The Alchemist</h3>
+        <div class="book-author">Paulo Coelho</div>
+        <span class="book-status status-reading">Reading</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- LIFE EVENTS -->
+<div class="page-separator"></div>
+<div class="page-label">Life Events Page</div>
+<nav class="nav">
+  <div class="nav-logo">Banashri</div>
+  <div class="nav-links">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Blog</a>
+    <a href="#">Photos</a>
+    <a href="#">Books</a>
+    <a href="#" class="active">Life</a>
+    <a href="#">Quotes</a>
+  </div>
+</nav>
+<div class="timeline-section">
+  <h2 class="section-title">Life Events</h2>
+  <div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-year">2024</div>
+      <div class="timeline-event">Started a New Chapter</div>
+      <div class="timeline-desc">Moved to a new city, new beginnings, new stories to tell.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-year">2022</div>
+      <div class="timeline-event">Graduated</div>
+      <div class="timeline-desc">Completed my degree — years of hard work, late nights, and growth.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-year">2019</div>
+      <div class="timeline-event">First Solo Trip</div>
+      <div class="timeline-desc">Traveled alone for the first time. Learned more about myself in a week than in a year.</div>
+    </div>
+  </div>
+</div>
+
+<!-- QUOTES -->
+<div class="page-separator"></div>
+<div class="page-label">Quotes Page</div>
+<nav class="nav">
+  <div class="nav-logo">Banashri</div>
+  <div class="nav-links">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Blog</a>
+    <a href="#">Photos</a>
+    <a href="#">Books</a>
+    <a href="#">Life</a>
+    <a href="#" class="active">Quotes</a>
+  </div>
+</nav>
+<div class="quotes-section">
+  <h2 class="section-title">Quotes I Live By</h2>
+  <div class="quotes-grid">
+    <div class="quote-card">
+      <blockquote>"In the middle of difficulty lies opportunity."</blockquote>
+      <cite>Albert Einstein</cite>
+    </div>
+    <div class="quote-card">
+      <blockquote>"Not all those who wander are lost."</blockquote>
+      <cite>J.R.R. Tolkien</cite>
+    </div>
+    <div class="quote-card">
+      <blockquote>"The unexamined life is not worth living."</blockquote>
+      <cite>Socrates</cite>
+    </div>
+    <div class="quote-card">
+      <blockquote>"Be yourself; everyone else is already taken."</blockquote>
+      <cite>Oscar Wilde</cite>
+    </div>
+  </div>
+</div>
+
+<div class="footer">Banashri &middot; 2026</div>
+
+</body>
+</html>

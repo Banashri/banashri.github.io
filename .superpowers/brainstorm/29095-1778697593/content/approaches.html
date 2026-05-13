@@ -1,0 +1,70 @@
+<h2>Technical Approach</h2>
+<p class="subtitle">How should we build this blog? Each approach prioritizes different things.</p>
+
+<div class="options">
+  <div class="option" data-choice="a" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>Pure Static HTML + CSS (Recommended)</h3>
+      <p>Hand-crafted HTML pages with vanilla CSS. No build tools, no frameworks, no dependencies. Deploy directly to GitHub Pages.</p>
+      <div class="pros-cons">
+        <div class="pros"><h4>Pros</h4><ul>
+          <li>Zero dependencies — nothing to install or update</li>
+          <li>Loads instantly — no JS overhead</li>
+          <li>Easy to understand and edit</li>
+          <li>Perfect GitHub Pages deployment</li>
+          <li>Will work unchanged for decades</li>
+        </ul></div>
+        <div class="cons"><h4>Cons</h4><ul>
+          <li>Adding blog posts means creating HTML files manually</li>
+          <li>No templating — shared elements (nav, footer) duplicated across pages</li>
+          <li>Tag filtering needs a small JS script</li>
+        </ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="b" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>Static Site Generator (Hugo / Jekyll)</h3>
+      <p>Use a generator like Hugo or Jekyll. Write content in Markdown, templates handle layout. Built-in blog/tagging support.</p>
+      <div class="pros-cons">
+        <div class="pros"><h4>Pros</h4><ul>
+          <li>Markdown for blog posts — easier to write</li>
+          <li>Templating eliminates duplication</li>
+          <li>Built-in tags, categories, pagination</li>
+          <li>Jekyll is natively supported by GitHub Pages</li>
+        </ul></div>
+        <div class="cons"><h4>Cons</h4><ul>
+          <li>Requires learning the generator's conventions</li>
+          <li>Build step needed (or rely on GitHub Actions)</li>
+          <li>Theme customization can be frustrating</li>
+          <li>Dependency on tool updates</li>
+        </ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="c" onclick="toggleSelect(this)">
+    <div class="letter">C</div>
+    <div class="content">
+      <h3>Lightweight JS Framework (Astro / 11ty)</h3>
+      <p>Modern static-site tools that output pure HTML. Component-based development with zero client-side JS by default.</p>
+      <div class="pros-cons">
+        <div class="pros"><h4>Pros</h4><ul>
+          <li>Best developer experience</li>
+          <li>Component reuse without duplication</li>
+          <li>Markdown support + powerful templating</li>
+          <li>Ships zero JS to the browser</li>
+        </ul></div>
+        <div class="cons"><h4>Cons</h4><ul>
+          <li>Requires Node.js and npm</li>
+          <li>Build step required</li>
+          <li>More complex project structure</li>
+          <li>Overkill for a personal blog with ~6 pages</li>
+        </ul></div>
+      </div>
+    </div>
+  </div>
+</div>

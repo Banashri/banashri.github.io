@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog Flow Mockup</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Inter', sans-serif; background: #fafaf8; color: #2c2c2c; font-weight: 300; }
+
+  .mockup-label {
+    background: #333; color: #fff; text-align: center; padding: 12px;
+    font-size: 11px; letter-spacing: 2px; text-transform: uppercase;
+    position: sticky; top: 0; z-index: 100;
+  }
+  .mockup-label span { background: #555; padding: 3px 10px; border-radius: 3px; margin-left: 8px; font-size: 10px; }
+
+  .nav {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 28px 60px; border-bottom: 1px solid #e8e6e1; background: #fafaf8;
+  }
+  .nav-logo {
+    font-family: 'Cormorant Garamond', serif; font-size: 26px;
+    font-weight: 300; letter-spacing: 4px; color: #2c2c2c;
+  }
+  .nav-links { display: flex; gap: 32px; }
+  .nav-links a {
+    text-decoration: none; color: #888; font-size: 13px;
+    letter-spacing: 1.5px; text-transform: uppercase; font-weight: 400;
+  }
+  .nav-links a.active { color: #2c2c2c; }
+
+  .section-title {
+    font-family: 'Cormorant Garamond', serif; font-size: 32px;
+    font-weight: 300; text-align: center; margin-bottom: 16px; color: #2c2c2c;
+  }
+
+  .page-separator { background: linear-gradient(to right, #ddd, #eee, #ddd); height: 3px; margin: 0; }
+
+  .footer {
+    text-align: center; padding: 40px; border-top: 1px solid #e8e6e1;
+    font-size: 12px; color: #bbb; letter-spacing: 1px;
+  }
+
+  /* --- BLOG LISTING PAGE --- */
+  .blog-page { max-width: 900px; margin: 0 auto; padding: 60px 40px; }
+
+  .tag-filters {
+    display: flex; gap: 10px; justify-content: center; margin-bottom: 50px; flex-wrap: wrap;
+  }
+  .tag-btn {
+    font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: #888; border: 1px solid #ddd; padding: 6px 16px;
+    border-radius: 20px; cursor: pointer; background: transparent;
+    transition: all 0.2s; font-family: 'Inter', sans-serif;
+  }
+  .tag-btn.active, .tag-btn:hover { background: #2c2c2c; color: #fff; border-color: #2c2c2c; }
+
+  .post-card {
+    display: flex; gap: 24px; padding: 32px 0;
+    border-bottom: 1px solid #eee; text-decoration: none; color: inherit;
+    transition: opacity 0.2s;
+  }
+  .post-card:hover { opacity: 0.7; }
+  .post-card:last-child { border-bottom: none; }
+
+  .post-thumb {
+    width: 180px; height: 120px; border-radius: 4px; flex-shrink: 0;
+    background: linear-gradient(135deg, #e8e6e1 0%, #d5d0c8 100%);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 10px; color: #aaa; letter-spacing: 1px;
+  }
+  .post-body { flex: 1; }
+  .post-date { font-size: 11px; color: #aaa; letter-spacing: 1.5px; margin-bottom: 8px; text-transform: uppercase; }
+  .post-title {
+    font-family: 'Cormorant Garamond', serif; font-size: 24px;
+    font-weight: 400; color: #2c2c2c; margin-bottom: 8px; line-height: 1.3;
+  }
+  .post-excerpt { font-size: 14px; color: #888; line-height: 1.7; margin-bottom: 12px; }
+  .post-tags { display: flex; gap: 8px; }
+  .tag {
+    font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: #999; border: 1px solid #ddd; padding: 3px 10px; border-radius: 20px;
+  }
+
+  .arrow-link {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12px; letter-spacing: 1px; text-transform: uppercase;
+    color: #2c2c2c; text-decoration: none; margin-top: 10px; font-weight: 500;
+  }
+
+  /* --- INDIVIDUAL BLOG POST PAGE --- */
+  .post-page { max-width: 720px; margin: 0 auto; padding: 60px 40px 80px; }
+
+  .post-header { text-align: center; margin-bottom: 50px; }
+  .post-header .post-date { margin-bottom: 16px; }
+  .post-header h1 {
+    font-family: 'Cormorant Garamond', serif; font-size: 42px;
+    font-weight: 300; line-height: 1.25; margin-bottom: 20px;
+  }
+  .post-header .post-tags { justify-content: center; }
+  .post-divider { width: 40px; height: 1px; background: #ccc; margin: 30px auto 0; }
+
+  .post-content p {
+    font-size: 16px; color: #444; line-height: 1.9; margin-bottom: 24px;
+  }
+  .post-content h2 {
+    font-family: 'Cormorant Garamond', serif; font-size: 28px;
+    font-weight: 400; margin: 48px 0 20px; color: #2c2c2c;
+  }
+  .post-content blockquote {
+    font-family: 'Cormorant Garamond', serif; font-size: 22px;
+    font-style: italic; color: #555; border-left: 2px solid #ddd;
+    padding: 12px 0 12px 28px; margin: 32px 0; line-height: 1.6;
+  }
+  .post-content .post-image {
+    width: 100%; border-radius: 4px; margin: 32px 0;
+    background: linear-gradient(135deg, #e8e6e1 0%, #d5d0c8 100%);
+    height: 300px; display: flex; align-items: center; justify-content: center;
+    color: #aaa; font-size: 12px; letter-spacing: 1px;
+  }
+  .post-content .image-caption {
+    text-align: center; font-size: 12px; color: #aaa;
+    margin-top: -20px; margin-bottom: 32px; font-style: italic;
+  }
+
+  .back-link {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: #888; text-decoration: none; margin-bottom: 40px;
+    transition: color 0.2s;
+  }
+  .back-link:hover { color: #2c2c2c; }
+
+  .post-nav {
+    display: flex; justify-content: space-between; margin-top: 60px;
+    padding-top: 30px; border-top: 1px solid #eee;
+  }
+  .post-nav a {
+    text-decoration: none; color: #888; font-size: 13px;
+    letter-spacing: 1px; transition: color 0.2s;
+  }
+  .post-nav a:hover { color: #2c2c2c; }
+  .post-nav .nav-label {
+    font-size: 10px; letter-spacing: 2px; text-transform: uppercase;
+    color: #bbb; display: block; margin-bottom: 4px;
+  }
+
+  /* --- FILE STRUCTURE --- */
+  .file-section {
+    max-width: 800px; margin: 0 auto; padding: 60px 40px;
+  }
+  .file-tree {
+    background: #1a1a2e; color: #e0e0e0; padding: 28px; border-radius: 8px;
+    font-size: 13px; line-height: 2; font-family: 'SF Mono', 'Fira Code', monospace;
+  }
+  .file-tree .highlight { color: #7ecfff; }
+  .file-tree .comment { color: #666; }
+  .file-tree .new { color: #8bc78b; }
+
+  .how-to {
+    background: #f4f3ef; border-radius: 8px; padding: 28px; margin-top: 24px;
+    border: 1px solid #e8e6e1;
+  }
+  .how-to h3 { font-size: 14px; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 14px; color: #555; }
+  .how-to ol { padding-left: 20px; font-size: 14px; color: #666; line-height: 2; }
+  .how-to code { background: #e8e6e1; padding: 2px 6px; border-radius: 3px; font-size: 12px; }
+
+  @media (max-width: 768px) {
+    .nav { padding: 20px 24px; }
+    .nav-links { gap: 16px; }
+    .nav-links a { font-size: 11px; }
+    .blog-page, .post-page, .file-section { padding: 40px 20px; }
+    .post-card { flex-direction: column; }
+    .post-thumb { width: 100%; height: 180px; }
+    .post-header h1 { font-size: 30px; }
+    .post-nav { flex-direction: column; gap: 20px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ====== STEP 1: BLOG LISTING PAGE ====== -->
+<div class="mockup-label">Step 1: Blog Listing Page <span>blog.html</span></div>
+
+<nav class="nav">
+  <div class="nav-logo">Banashri</div>
+  <div class="nav-links">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#" class="active">Blog</a>
+    <a href="#">Photos</a>
+    <a href="#">Books</a>
+    <a href="#">Life</a>
+    <a href="#">Quotes</a>
+  </div>
+</nav>
+
+<div class="blog-page">
+  <h2 class="section-title">Blog</h2>
+  <p style="text-align:center; color:#888; font-size:14px; margin-bottom:30px;">Thoughts, stories, and things I've learned along the way.</p>
+
+  <div class="tag-filters">
+    <button class="tag-btn active">All</button>
+    <button class="tag-btn">Travel</button>
+    <button class="tag-btn">Reflections</button>
+    <button class="tag-btn">Books</button>
+    <button class="tag-btn">Food</button>
+    <button class="tag-btn">Life</button>
+  </div>
+
+  <a href="#" class="post-card">
+    <div class="post-thumb">Cover Image</div>
+    <div class="post-body">
+      <div class="post-date">May 10, 2026</div>
+      <div class="post-title">The Art of Slowing Down</div>
+      <div class="post-excerpt">Sometimes the best thing you can do is nothing at all. In a world that celebrates hustle, I've been learning to find peace in stillness...</div>
+      <div class="post-tags"><span class="tag">Reflections</span><span class="tag">Life</span></div>
+    </div>
+  </a>
+
+  <a href="#" class="post-card">
+    <div class="post-thumb">Cover Image</div>
+    <div class="post-body">
+      <div class="post-date">April 22, 2026</div>
+      <div class="post-title">Weekend in the Mountains</div>
+      <div class="post-excerpt">A quiet escape to the hills, where the air smells like pine and the only sound is the wind through the trees. Sometimes you need to get away to come back...</div>
+      <div class="post-tags"><span class="tag">Travel</span></div>
+    </div>
+  </a>
+
+  <a href="#" class="post-card">
+    <div class="post-thumb">Cover Image</div>
+    <div class="post-body">
+      <div class="post-date">March 15, 2026</div>
+      <div class="post-title">Books That Changed My Perspective</div>
+      <div class="post-excerpt">Five books I keep coming back to, year after year. Each one shifted something inside me — the way I see people, time, and what matters...</div>
+      <div class="post-tags"><span class="tag">Books</span><span class="tag">Lists</span></div>
+    </div>
+  </a>
+
+  <a href="#" class="post-card">
+    <div class="post-thumb">Cover Image</div>
+    <div class="post-body">
+      <div class="post-date">February 28, 2026</div>
+      <div class="post-title">The Street Food Trail</div>
+      <div class="post-excerpt">From the chaat stalls of Old Delhi to the momos in Darjeeling — a journey through India's most underrated street food destinations...</div>
+      <div class="post-tags"><span class="tag">Food</span><span class="tag">Travel</span></div>
+    </div>
+  </a>
+
+  <a href="#" class="post-card">
+    <div class="post-thumb">Cover Image</div>
+    <div class="post-body">
+      <div class="post-date">January 5, 2026</div>
+      <div class="post-title">New Year, Same Me</div>
+      <div class="post-excerpt">Why I stopped making resolutions and started making small, quiet changes instead. It turns out consistency beats ambition every time...</div>
+      <div class="post-tags"><span class="tag">Reflections</span></div>
+    </div>
+  </a>
+</div>
+
+<div class="footer">Banashri &middot; 2026</div>
+
+<!-- ====== STEP 2: INDIVIDUAL BLOG POST ====== -->
+<div class="page-separator"></div>
+<div class="mockup-label">Step 2: Click a Post → Full Article <span>posts/the-art-of-slowing-down.html</span></div>
+
+<nav class="nav">
+  <div class="nav-logo">Banashri</div>
+  <div class="nav-links">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#" class="active">Blog</a>
+    <a href="#">Photos</a>
+    <a href="#">Books</a>
+    <a href="#">Life</a>
+    <a href="#">Quotes</a>
+  </div>
+</nav>
+
+<div class="post-page">
+  <a href="#" class="back-link">&larr; Back to Blog</a>
+
+  <div class="post-header">
+    <div class="post-date">May 10, 2026</div>
+    <h1>The Art of Slowing Down</h1>
+    <div class="post-tags">
+      <span class="tag">Reflections</span>
+      <span class="tag">Life</span>
+    </div>
+    <div class="post-divider"></div>
+  </div>
+
+  <div class="post-content">
+    <p>There's a particular kind of exhaustion that comes not from doing too much, but from never feeling like you've done enough. I lived in that space for years — always running, always planning the next thing before the current thing was finished.</p>
+
+    <p>Last month, I spent a weekend doing absolutely nothing. No plans, no agenda, no guilt. Just me, a book, a window, and the sound of rain. It was the most productive weekend I've had in years.</p>
+
+    <div class="post-image">Full-width image here</div>
+    <div class="image-caption">A quiet morning by the window — where the best ideas find you</div>
+
+    <h2>The Myth of Productivity</h2>
+
+    <p>We've been sold this idea that every minute needs to be optimised, that rest is earned and not given. But the older I get, the more I realise that the best things in life happen in the margins — in the unplanned hours, the aimless walks, the conversations that go nowhere and everywhere at once.</p>
+
+    <blockquote>"Almost everything will work again if you unplug it for a few minutes, including you."</blockquote>
+
+    <p>I'm not suggesting we abandon ambition. I'm suggesting we stop confusing motion with progress. Sometimes sitting still is the bravest thing you can do.</p>
+
+    <div class="post-image">Another image here</div>
+    <div class="image-caption">The old bookshop around the corner — my favourite place to get lost</div>
+
+    <h2>What I've Learned</h2>
+
+    <p>The world doesn't fall apart when you take a break. Your inbox will wait. The tasks will still be there. But the sunset won't — it's happening right now, and you're either watching it or you're not.</p>
+
+    <p>I'm learning to choose the sunset more often.</p>
+  </div>
+
+  <div class="post-nav">
+    <a href="#">
+      <span class="nav-label">&larr; Previous</span>
+      Weekend in the Mountains
+    </a>
+    <a href="#" style="text-align:right;">
+      <span class="nav-label">Next &rarr;</span>
+      Books That Changed My Perspective
+    </a>
+  </div>
+</div>
+
+<div class="footer">Banashri &middot; 2026</div>
+
+<!-- ====== STEP 3: HOW IT WORKS ====== -->
+<div class="page-separator"></div>
+<div class="mockup-label">How Blog Posts Are Stored</div>
+
+<div class="file-section">
+  <h2 class="section-title">File Structure</h2>
+
+  <div class="file-tree">
+    <span class="highlight">posts/</span><br>
+    ├── <span class="new">template.html</span> <span class="comment">← copy this to create a new post</span><br>
+    ├── the-art-of-slowing-down.html<br>
+    ├── weekend-in-mountains.html<br>
+    ├── books-that-changed-me.html<br>
+    ├── the-street-food-trail.html<br>
+    └── new-year-same-me.html<br>
+    <br>
+    <span class="highlight">blog.html</span> <span class="comment">← listing page (add one entry per post)</span><br>
+    <br>
+    <span class="comment">Each post is a standalone HTML file.</span><br>
+    <span class="comment">Posts can be as long as you want — unlimited text, images, quotes.</span><br>
+    <span class="comment">Images go in images/posts/your-post-name/</span>
+  </div>
+
+  <div class="how-to">
+    <h3>To Add a New Blog Post</h3>
+    <ol>
+      <li>Copy <code>posts/template.html</code> → <code>posts/your-post-name.html</code></li>
+      <li>Edit the title, date, tags, and write your content (as long as you want)</li>
+      <li>Add images to <code>images/posts/your-post-name/</code></li>
+      <li>Open <code>blog.html</code> and copy a post card entry, update the title/excerpt/link</li>
+    </ol>
+  </div>
+
+  <div class="how-to" style="margin-top:16px;">
+    <h3>Post Template Includes</h3>
+    <ol>
+      <li>Full nav bar (same as all pages)</li>
+      <li>"Back to Blog" link</li>
+      <li>Title, date, and tags header</li>
+      <li>Content area — supports paragraphs, headings, images, blockquotes, lists</li>
+      <li>Previous / Next post navigation</li>
+      <li>Footer</li>
+    </ol>
+  </div>
+</div>
+
+</body>
+</html>

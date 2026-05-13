@@ -1,0 +1,75 @@
+<h2>Site Structure & Navigation</h2>
+<p class="subtitle">6 pages with a simple top navigation bar</p>
+
+<div class="section">
+  <h3>Pages</h3>
+  <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 12px;">
+    <div style="background:#f8f8f8; border-radius:8px; padding:20px; border-left:3px solid #333;">
+      <strong>Home</strong>
+      <p style="font-size:14px; color:#666; margin-top:6px;">Welcome message, recent blog posts, a featured quote</p>
+    </div>
+    <div style="background:#f8f8f8; border-radius:8px; padding:20px; border-left:3px solid #555;">
+      <strong>About Me</strong>
+      <p style="font-size:14px; color:#666; margin-top:6px;">Bio, interests, personal story</p>
+    </div>
+    <div style="background:#f8f8f8; border-radius:8px; padding:20px; border-left:3px solid #777;">
+      <strong>Blog</strong>
+      <p style="font-size:14px; color:#666; margin-top:6px;">Posts listed with tags, filterable by label</p>
+    </div>
+    <div style="background:#f8f8f8; border-radius:8px; padding:20px; border-left:3px solid #999;">
+      <strong>Photos</strong>
+      <p style="font-size:14px; color:#666; margin-top:6px;">Grid gallery with lightbox, lazy-loaded</p>
+    </div>
+    <div style="background:#f8f8f8; border-radius:8px; padding:20px; border-left:3px solid #aaa;">
+      <strong>Books</strong>
+      <p style="font-size:14px; color:#666; margin-top:6px;">Reading list with covers, status (read/reading/want to read)</p>
+    </div>
+    <div style="background:#f8f8f8; border-radius:8px; padding:20px; border-left:3px solid #bbb;">
+      <strong>Life Events</strong>
+      <p style="font-size:14px; color:#666; margin-top:6px;">Vertical timeline of milestones</p>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="margin-top: 32px;">
+  <h3>Quotes</h3>
+  <p style="color:#666;">Dedicated page in the nav — a curated collection displayed as styled cards</p>
+</div>
+
+<div class="section" style="margin-top: 32px;">
+  <h3>File Structure</h3>
+  <pre style="background:#1a1a2e; color:#e0e0e0; padding:20px; border-radius:8px; font-size:13px; line-height:1.8;">
+banashri.github.io/
+├── index.html          ← Home
+├── about.html          ← About Me
+├── blog.html           ← Blog listing (tag filter)
+├── photos.html         ← Photo gallery
+├── books.html          ← Books I Read
+├── life-events.html    ← Timeline
+├── quotes.html         ← Quotes collection
+├── css/
+│   └── style.css       ← Single stylesheet
+├── js/
+│   └── main.js         ← Minimal JS (lightbox, tag filter)
+└── images/
+    ├── photos/         ← Gallery images
+    └── books/          ← Book covers
+  </pre>
+</div>
+
+<div class="section" style="margin-top: 32px;">
+  <h3>Navigation</h3>
+  <div style="background:#fafafa; border-radius:8px; padding:16px; display:flex; align-items:center; justify-content:space-between; font-size:14px; border:1px solid #eee;">
+    <strong style="font-size:16px; letter-spacing:1px;">BANASHRI</strong>
+    <div style="display:flex; gap:24px; color:#555;">
+      <span style="color:#333; font-weight:500;">Home</span>
+      <span>About</span>
+      <span>Blog</span>
+      <span>Photos</span>
+      <span>Books</span>
+      <span>Life</span>
+      <span>Quotes</span>
+    </div>
+  </div>
+  <p style="font-size:13px; color:#999; margin-top:8px;">On mobile: hamburger menu slides in from the right</p>
+</div>
