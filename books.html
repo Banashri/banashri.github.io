@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Books — Banashri</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <nav class="nav">
+    <a href="index.html" class="nav-logo">Banashri</a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="blog.html">Blog</a>
+      <a href="photos.html">Photos</a>
+      <a href="books.html" class="active">Books</a>
+      <a href="life-events.html">Life</a>
+      <a href="quotes.html">Quotes</a>
+    </div>
+    <button class="hamburger" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <div class="mobile-menu">
+    <button class="mobile-menu-close" aria-label="Close menu">&times;</button>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="blog.html">Blog</a>
+    <a href="photos.html">Photos</a>
+    <a href="books.html" class="active">Books</a>
+    <a href="life-events.html">Life</a>
+    <a href="quotes.html">Quotes</a>
+  </div>
+
+  <section class="books-section">
+    <h2 class="section-title">Books I've Read</h2>
+    <p class="section-subtitle">A collection of books that have shaped my thinking.</p>
+
+    <div class="filter-bar">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="read">Read</button>
+      <button class="filter-btn" data-filter="reading">Reading</button>
+      <button class="filter-btn" data-filter="want">Want to Read</button>
+    </div>
+
+    <div class="book-list">
+
+      <!-- BOOK TEMPLATE — copy this block to add a new book:
+      <div class="book-item" data-status="read">
+        <div class="book-cover"></div>
+        <div class="book-info">
+          <h3>Book Title</h3>
+          <div class="book-author">Author Name</div>
+          <span class="book-status status-read">Read</span>
+          <p class="book-note">A short personal note about the book.</p>
+        </div>
+      </div>
+      -->
+
+      <div class="book-item" data-status="read">
+        <div class="book-cover"></div>
+        <div class="book-info">
+          <h3>Sapiens</h3>
+          <div class="book-author">Yuval Noah Harari</div>
+          <span class="book-status status-read">Read</span>
+          <p class="book-note">Changed how I think about human history and the stories we tell ourselves.</p>
+        </div>
+      </div>
+
+      <div class="book-item" data-status="reading">
+        <div class="book-cover"></div>
+        <div class="book-info">
+          <h3>The Alchemist</h3>
+          <div class="book-author">Paulo Coelho</div>
+          <span class="book-status status-reading">Reading</span>
+        </div>
+      </div>
+
+      <div class="book-item" data-status="read">
+        <div class="book-cover"></div>
+        <div class="book-info">
+          <h3>Atomic Habits</h3>
+          <div class="book-author">James Clear</div>
+          <span class="book-status status-read">Read</span>
+          <p class="book-note">Practical and life-changing. I revisit the core ideas constantly.</p>
+        </div>
+      </div>
+
+      <div class="book-item" data-status="want">
+        <div class="book-cover"></div>
+        <div class="book-info">
+          <h3>Educated</h3>
+          <div class="book-author">Tara Westover</div>
+          <span class="book-status status-want">Want to Read</span>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <footer class="footer">Banashri &middot; 2026</footer>
+
+  <script src="js/main.js" defer></script>
+</body>
+</html>
