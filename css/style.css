@@ -507,6 +507,16 @@ ul, ol { list-style: none; }
 }
 .book-author { font-size: 13px; color: #999; margin-bottom: 8px; }
 .book-note { font-size: 13px; color: #777; margin-top: 8px; line-height: 1.6; font-style: italic; }
+.book-review-link {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #888;
+  transition: color 0.2s;
+}
+.book-review-link:hover { color: #2c2c2c; }
 .book-status {
   font-size: 10px;
   letter-spacing: 1.5px;
