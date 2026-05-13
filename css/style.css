@@ -507,6 +507,23 @@ ul, ol { list-style: none; }
 }
 .book-author { font-size: 13px; color: #999; margin-bottom: 8px; }
 .book-note { font-size: 13px; color: #777; margin-top: 8px; line-height: 1.6; font-style: italic; }
+.book-dates {
+  display: flex;
+  gap: 16px;
+  margin-top: 8px;
+  font-size: 12px;
+  color: #aaa;
+}
+.book-dates span {
+  letter-spacing: 0.5px;
+}
+.book-dates .date-label {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 10px;
+  color: #bbb;
+  margin-right: 4px;
+}
 .book-review-link {
   display: inline-block;
   margin-top: 10px;
