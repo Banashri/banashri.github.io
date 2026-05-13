@@ -505,7 +505,8 @@ ul, ol { list-style: none; }
   font-weight: 400;
   margin-bottom: 4px;
 }
-.book-author { font-size: 13px; color: #999; margin-bottom: 8px; }
+.book-author { font-size: 13px; color: #999; margin-bottom: 6px; }
+.book-info .post-tags { margin-top: 6px; margin-bottom: 2px; }
 .book-note { font-size: 13px; color: #777; margin-top: 8px; line-height: 1.6; font-style: italic; }
 .book-dates {
   display: flex;
