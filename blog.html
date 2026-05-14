@@ -11,34 +11,9 @@
 </head>
 <body>
 
-  <nav class="nav">
-    <a href="index.html" class="nav-logo">banashris</a>
-    <div class="nav-links">
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>
-      <a href="blog.html" class="active">Blog</a>
-      <a href="photos.html">Photos</a>
-      <a href="books.html">Books</a>
-      <a href="life-events.html">Life</a>
-      <a href="quotes.html">Quotes</a>
-      <a href="languages.html">Languages</a>
-    </div>
-    <button class="hamburger" aria-label="Menu">
-      <span></span><span></span><span></span>
-    </button>
-  </nav>
+  <nav id="main-nav"></nav>
 
-  <div class="mobile-menu">
-    <button class="mobile-menu-close" aria-label="Close menu">&times;</button>
-    <a href="index.html">Home</a>
-    <a href="about.html">About</a>
-    <a href="blog.html" class="active">Blog</a>
-    <a href="photos.html">Photos</a>
-    <a href="books.html">Books</a>
-    <a href="life-events.html">Life</a>
-    <a href="quotes.html">Quotes</a>
-      <a href="languages.html">Languages</a>
-  </div>
+  <div id="mobile-menu"></div>
 
   <section class="blog-page">
     <h2 class="section-title">Blog</h2>
@@ -87,8 +62,9 @@
 
   </section>
 
-  <footer class="footer">Banashri &middot; 2026</footer>
+  <footer id="main-footer"></footer>
 
+  <script src="js/components.js"></script>
   <script src="js/main.js" defer></script>
 </body>
 </html>

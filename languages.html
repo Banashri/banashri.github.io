@@ -11,34 +11,9 @@
 </head>
 <body>
 
-  <nav class="nav">
-    <a href="index.html" class="nav-logo">banashris</a>
-    <div class="nav-links">
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>
-      <a href="blog.html">Blog</a>
-      <a href="photos.html">Photos</a>
-      <a href="books.html">Books</a>
-      <a href="life-events.html">Life</a>
-      <a href="quotes.html">Quotes</a>
-      <a href="languages.html" class="active">Languages</a>
-    </div>
-    <button class="hamburger" aria-label="Menu">
-      <span></span><span></span><span></span>
-    </button>
-  </nav>
+  <nav id="main-nav"></nav>
 
-  <div class="mobile-menu">
-    <button class="mobile-menu-close" aria-label="Close menu">&times;</button>
-    <a href="index.html">Home</a>
-    <a href="about.html">About</a>
-    <a href="blog.html">Blog</a>
-    <a href="photos.html">Photos</a>
-    <a href="books.html">Books</a>
-    <a href="life-events.html">Life</a>
-    <a href="quotes.html">Quotes</a>
-    <a href="languages.html" class="active">Languages</a>
-  </div>
+  <div id="mobile-menu"></div>
 
   <section class="languages-section">
     <h2 class="section-title">Language Learning</h2>
@@ -46,19 +21,19 @@
 
     <div class="language-hub">
 
-      <a href="languages/english.html" class="language-card flag-en">
+      <a href="languages/english/index.html" class="language-card flag-en">
         <h3 class="language-card-title">English</h3>
         <p class="language-card-desc">Refining expression, one word at a time.</p>
         <span class="language-card-link">Explore &rarr;</span>
       </a>
 
-      <a href="languages/french.html" class="language-card flag-fr">
+      <a href="languages/french/index.html" class="language-card flag-fr">
         <h3 class="language-card-title">Français</h3>
         <p class="language-card-desc">La langue de l'amour et de la littérature.</p>
         <span class="language-card-link">Explore &rarr;</span>
       </a>
 
-      <a href="languages/german.html" class="language-card flag-de">
+      <a href="languages/german/index.html" class="language-card flag-de">
         <h3 class="language-card-title">Deutsch</h3>
         <p class="language-card-desc">Die Sprache der Dichter und Denker.</p>
         <span class="language-card-link">Explore &rarr;</span>
@@ -67,8 +42,9 @@
     </div>
   </section>
 
-  <footer class="footer">Banashri &middot; 2026</footer>
+  <footer id="main-footer"></footer>
 
+  <script src="js/components.js"></script>
   <script src="js/main.js" defer></script>
 </body>
 </html>

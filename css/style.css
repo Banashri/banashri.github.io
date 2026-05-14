@@ -294,17 +294,21 @@ ul, ol { list-style: none; }
 }
 
 .post-content p {
-  font-size: 16px;
+  font-family: 'Lora', serif;
+  font-size: 17px;
   color: #2a2a2a;
-  line-height: 1.9;
-  margin-bottom: 24px;
+  line-height: 1.95;
+  margin-bottom: 28px;
+  letter-spacing: 0.01em;
+  text-align: justify;
 }
 .post-content h2 {
   font-family: 'Lora', serif;
-  font-size: 28px;
-  font-weight: 500;
-  margin: 48px 0 20px;
+  font-size: 22px;
+  font-weight: 600;
+  margin: 52px 0 16px;
   color: #1a1a1a;
+  letter-spacing: 0.02em;
 }
 .post-content blockquote {
   font-family: 'Lora', serif;
@@ -700,6 +704,35 @@ ul, ol { list-style: none; }
   color: #3a3a3a;
   line-height: 1.7;
 }
+
+.lang-motivation {
+  margin-top: 40px;
+}
+.lang-motivation h3 {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 16px;
+}
+.lang-motivation p {
+  font-family: 'Lora', serif;
+  font-size: 17px;
+  color: #2a2a2a;
+  line-height: 1.95;
+  letter-spacing: 0.01em;
+  text-align: justify;
+}
+.journal-link {
+  display: inline-block;
+  margin-top: 36px;
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #636363;
+  transition: color 0.2s;
+}
+.journal-link:hover { color: #1a1a1a; }
 
 /* ===== RESPONSIVE ===== */
 @media (max-width: 768px) {
