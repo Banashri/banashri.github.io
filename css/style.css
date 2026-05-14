@@ -589,7 +589,7 @@ ul, ol { list-style: none; }
 .timeline-desc { font-size: 13px; color: #5c524a; line-height: 1.6; letter-spacing: 0.3px; }
 
 /* ===== QUOTES ===== */
-.quotes-section { padding: 60px 60px 80px; max-width: 800px; margin: 0 auto; }
+.quotes-section { padding: 60px 60px 80px; max-width: 960px; margin: 0 auto; }
 .quotes-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
