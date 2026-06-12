@@ -26,6 +26,13 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  // ===== DISABLE BLOG NAV LINKS =====
+  var blogLinks = document.querySelectorAll('.nav-links a[href$="blog.html"], .mobile-menu a[href$="blog.html"]');
+  blogLinks.forEach(function (link) {
+    link.classList.add('nav-link-disabled');
+    link.title = 'Under Construction';
+  });
+
   // ===== TAG / STATUS FILTERING =====
   var filterBtns = document.querySelectorAll('.filter-btn');
   var filterableCards = document.querySelectorAll('[data-tags], [data-status]');

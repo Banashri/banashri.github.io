@@ -22,9 +22,10 @@
     <div class="filter-bar">
       <button class="filter-btn active" data-filter="all">All</button>
       <button class="filter-btn" data-filter="read">Read</button>
-      <button class="filter-btn" data-filter="reading">Reading</button>
       <button class="filter-btn" data-filter="want">Want to Read</button>
     </div>
+
+    <p class="books-reading-note">Currently reading something? I'll update this list once I'm done.</p>
 
     <div class="book-list">
 
@@ -45,11 +46,6 @@
         </div>
       </div>
 
-      For "reading" books, use:
-          <div class="book-dates">
-            <span><span class="date-label">Started:</span> Month Year</span>
-          </div>
-
       For "want to read" books, use:
           <div class="book-dates">
             <span><span class="date-label">Planned:</span> Month Year</span>
@@ -59,29 +55,26 @@
       <div class="book-item" data-status="read">
         <div class="book-cover"></div>
         <div class="book-info">
-          <h3>Sapiens</h3>
-          <div class="book-author">Yuval Noah Harari</div>
+          <h3>The Great Gatsby</h3>
+          <div class="book-author">F. Scott Fitzgerald</div>
           <span class="book-status status-read">Read</span>
-          <div class="post-tags"><span class="tag">Non-fiction</span><span class="tag">History</span><span class="tag">Anthropology</span></div>
+          <div class="post-tags"><span class="tag">Fiction</span><span class="tag">Classic</span></div>
           <div class="book-dates">
-            <span><span class="date-label">Started:</span> Jan 2025</span>
-            <span><span class="date-label">Finished:</span> Mar 2025</span>
+            <span><span class="date-label">Started:</span> May 2026</span>
+            <span><span class="date-label">Finished:</span> Jun 2026</span>
           </div>
-          <p class="book-note">Changed how I think about human history and the stories we tell ourselves.</p>
-          <a href="reviews/sapiens.html" class="book-review-link">Read Review &rarr;</a>
+          <p class="book-note">When I stand at the dock, I too look far away and try to touch the past.</p>
+          <a href="reviews/the-great-gatsby.html" class="book-review-link">Read Review &rarr;</a>
         </div>
       </div>
 
-      <div class="book-item" data-status="reading">
+      <div class="book-item" data-status="want">
         <div class="book-cover"></div>
         <div class="book-info">
-          <h3>The Alchemist</h3>
-          <div class="book-author">Paulo Coelho</div>
-          <span class="book-status status-reading">Reading</span>
-          <div class="post-tags"><span class="tag">Fiction</span><span class="tag">Philosophy</span></div>
-          <div class="book-dates">
-            <span><span class="date-label">Started:</span> May 2026</span>
-          </div>
+          <h3>Sapiens</h3>
+          <div class="book-author">Yuval Noah Harari</div>
+          <span class="book-status status-want">Want to Read</span>
+          <div class="post-tags"><span class="tag">Non-fiction</span><span class="tag">History</span><span class="tag">Anthropology</span></div>
         </div>
       </div>
 

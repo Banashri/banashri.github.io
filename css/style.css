@@ -734,6 +734,58 @@ ul, ol { list-style: none; }
 }
 .journal-link:hover { color: #1a1a1a; }
 
+/* ===== BOOKS — READING NOTE ===== */
+.books-reading-note {
+  text-align: center;
+  font-size: 13px;
+  color: #888;
+  font-style: italic;
+  margin-bottom: 40px;
+  margin-top: -24px;
+}
+
+/* ===== UNDER CONSTRUCTION ===== */
+.under-construction-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+}
+.under-construction {
+  text-align: center;
+  padding: 60px 40px;
+}
+.uc-icon {
+  font-size: 48px;
+  margin-bottom: 20px;
+  opacity: 0.3;
+  animation: uc-spin 6s linear infinite;
+}
+@keyframes uc-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.uc-message {
+  font-family: 'Lora', serif;
+  font-size: 22px;
+  font-weight: 500;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+  letter-spacing: 1px;
+}
+.uc-detail {
+  font-size: 14px;
+  color: #888;
+  line-height: 1.6;
+}
+
+
+/* ===== NAV — DISABLED LINK ===== */
+.nav-link-disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
 /* ===== RESPONSIVE ===== */
 @media (max-width: 768px) {
   .nav { padding: 20px 24px; }
