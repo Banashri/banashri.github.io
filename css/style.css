@@ -345,6 +345,40 @@ ul, ol { list-style: none; }
 }
 .post-content ol li { list-style: decimal; }
 
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 36px 0 44px;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+}
+.post-content table th {
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #636363;
+  font-weight: 500;
+  text-align: left;
+  padding: 0 16px 14px 0;
+  border-bottom: 1px solid #ccc;
+}
+.post-content table td {
+  padding: 16px 16px 16px 0;
+  color: #2a2a2a;
+  border-bottom: 1px solid #eee;
+  vertical-align: top;
+  line-height: 1.5;
+}
+.post-content table td:first-child {
+  font-family: 'Lora', serif;
+  font-size: 16px;
+  color: #1a1a1a;
+}
+.post-content table .placeholder {
+  color: #aaa;
+  font-style: italic;
+}
+
 .post-nav {
   display: flex;
   justify-content: space-between;
@@ -808,6 +842,8 @@ ul, ol { list-style: none; }
   .post-page { padding: 40px 20px; }
   .post-header h1 { font-size: 30px; }
   .post-nav { flex-direction: column; gap: 20px; }
+  .post-content table { display: block; overflow-x: auto; }
+  .post-content table td:first-child { font-size: 15px; }
 
   .about-section {
     flex-direction: column;
